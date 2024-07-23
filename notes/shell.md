@@ -89,8 +89,7 @@ chmod [options] mode file
 chmod u+x filename
 ```
 
-## USEFUL TOOLS
-
+## SHELL SCRIPTING
 - To access variables (spaces are crucial)
 ```bash
 foo=bar
@@ -150,4 +149,80 @@ echo "We are in $(pwd)"
 diff <(ls foo) <(ls bar)
 # this will show the differences between files in dirs foo and bar
 ```
+- Use double brackets when performing comparisons in bash `[[]]`
+```bash
+if [[ $? -ne 0]]; then
+```
+- shell globbing: want to perform some sort of wildcard matching
+    - wildcards:
+```bash
+ls
+-> example.sh image.png mcd.sh project1 project2 script.py test
+ls *.sh
+-> example.sh mcd.sh
+ls project?
+-> project1: src project2: src
+```
+    - curly braces {}:
+```bash
+convert image.png image.jpg
+convert image.{png, jpg} # will convert to the line above
+```
+- shebang: line at the top of scripts and the way the cell will know how to run the program
+    - you can use the `env` command in the shebang line to resolve to wherever the command lives in the system
+```bash
+#!/usr/bin/env python
+```
+- Differences between shell functions and scripts
+    - functions
+        - have to be the same language as the shell
+        - loaded once when their definition is read
+        - executed in the current shell environment
+        - can modify environment variables (change directories)
+    - scripts
+        - can be written in any language (this is why shebangs are important)
+        - loaded every time they are executed
+        - execute in their own process
+
+## USEFUL TOOLS
+- shellcheck: helps find errors in your sh/bash scripts
+- `find`: recursively search for files matching some criteria
+```bash
+# finds all directories named src
+find . -name src -type d
+
+# finds all the files modified in the last day
+find . -mtime -1
+
+# delete all files with .tmp extension
+find . -name '*.tmp' -exec rm {} \;
+```
+- `locate`: uses a database for quickly searching
+- `grep`: generic tool for matching patterns from the input text
+    - `-C`: getting context around the matchine line
+    - `-v`: inverting the match
+    - `-R`: recursively go into directories and look for files for the matching string
+```bash
+grep -R foobar mcd.sh
+-> mcd.sh: # foobar
+```
+- `rp`: (ripgrep) is an alternative to `grep`
+```bash
+# finds all python files where I used the requests library
+rg -t py 'import requests'
+
+# finds all the files (including hidden files) without a shebang line
+rg -u --files-without-match "^#\!"
+```
+- `history`: access your shell history
+```bash
+# will print out your shell history
+history
+
+# will print out commands that contain the substring "find"
+history | grep find
+```
+- `Ctrl+R`: performs backwards search through your history; you can type a substring you want to match for commands in your history and will cycle through the matches
+- `fasd`: ranks files and directories by frequency
+    - has a `z` command that you can use to quickly `cd` using a substring of a frecent directory
 
