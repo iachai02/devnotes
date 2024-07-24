@@ -45,3 +45,7 @@
 - Reviewed leetcode problems: #217, #242, #1
 - New leetcode problem: #20
 - Started learning how to properly use github
+
+#### 2024-07-23
+- Finished lecture 2 of MIT course
+- Created another repo for my leetcode solutions and added my solutions to them
