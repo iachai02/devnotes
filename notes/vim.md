@@ -84,6 +84,7 @@
 - To copy a bunch of lines go to visual mode and then you can use the movement keys to copy
 - `/{search}`: search for the word and press `enter` to move the cursor to the beginning of the word
 - `/range`: searches for the word `range`
+- `.`: repeats the previous editing command
 
 ### Counts
 - Use a number with a letter
