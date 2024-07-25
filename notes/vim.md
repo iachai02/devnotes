@@ -58,6 +58,11 @@
     - `F{character}`: moves to the first instance backwards of that `character`
     - `t{character}`: moves to the character right before the `character`
     - `T{character}`: moves to the chracter right after the `character`
+- search:
+    - `:set ic`: set the ignore case option
+    - `:set hls is`: set the highlighting option
+    - `:set noic`: disable ignoring case enter
+    - `:nohlsearch`: remove the highlighting of matches enter
 
 ### Edits
 - `o`: enters to new line and changes to insert mode 
