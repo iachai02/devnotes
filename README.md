@@ -49,3 +49,8 @@
 #### 2024-07-23
 - Finished lecture 2 of MIT course
 - Created another repo for my leetcode solutions and added my solutions to them
+
+#### 2024-07-24
+- Finished lecture 3 of MIT course on VIM
+- finished transferring my other leetcode solutions to github repo
+- New leetcode problems: #125, #704
