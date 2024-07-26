@@ -1,0 +1,60 @@
+# HTML 
+
+## Elements
+
+- `<head></head>`: represents information about a webpage
+    - `<title></title>`: title of the webpage
+- `<body></body>`: what you would like to display to a user
+- `<h1></h1>`: largest header tag
+- `<p></p>`: paragraph
+- `<br>`: line break
+- `<hr>`: adds a horizontal divider
+- `<a></a>`: sets a hyperlink
+    - `href="url"`: the link it will go to
+        - can also use email: `"mailto:fake123@gmail.com"`
+    - `target="_blank"`: open up a new tab
+    - `title=""`: if you hover over the hyper link, it will display text
+- `<img />`: adds an image
+    - `src="image.png"`: the image you want to display
+    - `alt=""`: alternative text that explains what the image is
+    - `title=""`
+- `<audio></audio>`: adds audio
+    - `src="audio.mp3"`: audio you want to listen to
+    - `controls`: displays the controls of the mp3 file
+    - `autoplay`: plays automatically
+    - `muted`: you can mute it right away
+    - `loop`: loop the audio
+- `<video></video>`: adds a video
+    - `src="video.mp4"`: video you want to show
+    - `controls`
+    - `autoplay`
+    - `muted`
+    - `loop` 
+- `<b></b>`: bold
+- `<i></i>`: italic
+- `<ul></ul>`: unordered list
+    - `<li></li>`: use to create the actual bullet points inside the `<ul></ul>` element
+- `<ol></ol>`: ordered list
+    - `<li></li>`: use to create the actual numbered list
+        - `type=`: to change the numbered list to a lettered list, etc.
+- `<table></table>`: create a table
+    - `<tr></tr>`: adds a row
+        - `<th></th>`: adds a header
+        - `<td></td>`: table data
+- `<span></span>`: adds markup to text or portion of document
+- `<div></div>`: defines a division of a document
+- `<iframe>`: embed content from another source into an HTML document ex. used for ads, hacking techniques
+    - `src=""`: url or file to link to
+- `<button></button>`: creates a button
+- `<form></form>`: creates a form
+    - `action=""`: where the data goes to
+    - `required`: required to fill out the input elements
+    - `<label></label>`: label for the form
+        - `for=""`: this should be the same as the id for input
+    - `<input>`: input of the form
+        - `type=""`: type of input for the form (text, reset, submit, password, radio, etc)
+        - `id=""`: should be the same as the for attribute for label just so both elements are attached
+        - `name=""`: name of the input
+        - `placeholder=""`: default text for the input
+- `<select></select>`: dropdown menu
+    `<option></option>`: options for the dropdown menu
