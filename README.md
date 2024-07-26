@@ -54,3 +54,11 @@
 - Finished lecture 3 of MIT course on VIM
 - finished transferring my other leetcode solutions to github repo
 - New leetcode problems: #125, #704
+
+#### 2024-07-25
+- Finished lecture 6 of MIT course on git
+- New leetcode problems: #36, #238
+- reviewed flexboxCSS
+- updated linkedin profile picture
+- created an HTML and CSS only website using a youtube tutorial
+- finished another VIM tutorial
