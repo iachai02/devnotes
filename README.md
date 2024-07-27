@@ -62,3 +62,7 @@
 - updated linkedin profile picture
 - created an HTML and CSS only website using a youtube tutorial
 - finished another VIM tutorial
+
+#### 2024-07-26
+- reviewed flexbox and html again
+- started on freecodeacademy course on javascript
