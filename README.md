@@ -66,3 +66,6 @@
 #### 2024-07-26
 - reviewed flexbox and html again
 - started on freecodeacademy course on javascript
+
+#### 2024-07-29
+- finished the first 3 sections fo freecodecamp javascript course
