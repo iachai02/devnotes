@@ -69,3 +69,6 @@
 
 #### 2024-07-29
 - finished the first 3 sections fo freecodecamp javascript course
+
+#### 2024-07-30
+- finished up the first certification project on freecodecamp
