@@ -72,3 +72,6 @@
 
 #### 2024-07-30
 - finished up the first certification project on freecodecamp
+
+#### 2024-07-31
+- Worked on more of the certification project on freecodecamp
