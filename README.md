@@ -79,3 +79,6 @@
 #### 2024-08-01
 - Finished the certification project on freecodecamp
 - Finished the 2 parts of section 2
+
+#### 2024-08-02
+- Finished section 2 up until the certification project
