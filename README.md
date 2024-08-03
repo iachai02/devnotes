@@ -81,4 +81,4 @@
 - Finished the 2 parts of section 2
 
 #### 2024-08-02
-- Finished section 2 up until the certification project
+- Finished section 2 including the certification project
