@@ -83,3 +83,9 @@
 #### 2024-08-02
 - Finished section 2 including the certification project
 - finished section 3 part 1 and part 2
+
+#### 2024-08-03
+- Worked more on freecodecamp
+
+#### 2024-08-05
+- Worked more on freecodecamp
