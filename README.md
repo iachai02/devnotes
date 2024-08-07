@@ -92,3 +92,6 @@
 
 #### 2024-08-06
 - finished section 3 part 3 and working on part 4
+
+#### 2024-08-07
+- finished section 3 part 4
