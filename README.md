@@ -99,3 +99,6 @@
 #### 2024-08-08
 - finished section 3 certification project
 - working on section 4 part 1
+
+#### 2024-08-09
+- finished section 4 part 1
