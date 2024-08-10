@@ -102,3 +102,4 @@
 
 #### 2024-08-09
 - finished section 4 part 1
+- working on section 4 part 2
