@@ -106,3 +106,6 @@
 
 #### 2024-08-10
 - finished section 4 part 2
+
+#### 2024-08-12
+- finished section 4 part 3 and certification project
