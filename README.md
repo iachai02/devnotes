@@ -110,3 +110,6 @@
 #### 2024-08-12
 - finished section 4 part 3 and certification project
 - almost finished with section 5 part 1 (there are bugs)
+
+#### 2024-08-13
+- finished the javascript course for freecodecamp
