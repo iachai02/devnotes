@@ -14,5 +14,13 @@
 1 / 1 = 1
 (1 + 1) * 3 = 6
 ```
+- `Math.round()`: rounds the number to the nearest whole number
 
 ## Strings
+
+- `"", ''`
+- ` `${}` `: can you interpolation
+
+## Variables
+
+- 
