@@ -23,4 +23,4 @@
 
 ## Variables
 
-- 
+- can use `let` or `const` to declare variables
