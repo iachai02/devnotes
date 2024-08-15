@@ -24,3 +24,9 @@
 ## Variables
 
 - can use `let` or `const` to declare variables
+
+## Booleans and If-Statements
+
+- `===`: used to compare two things
+- `&&`: AND operator
+- `||`: OR operator
