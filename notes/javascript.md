@@ -41,7 +41,11 @@
 ```javascript
 const obj = {
     name: 'socks',
-    price: 1090
+    price: 1090,
+    message, // shorthand property if both the property name and value are the same
+    method () { // creates a method
+        ...
+    }
 };
 ```
 - `obj.property`: to access a property of the object
@@ -55,3 +59,10 @@ const obj = {
 - `const object2 = object1`: this is just copying a reference to object2
 - when you are comparing two objects, you are comparing the references, not the values inside
 - `const { property } = object`: destructuring; takes the property from object and saves it to a variable
+
+## Document Object Model (DOM)
+
+- `document.title`: changes the title of the html document
+- `document.body.innerHTML`: will change the html inside the body element to whatever you assign it to
+- `document.querySelector('htmlElement')`: access any html element
+    - `document.querySelector('.className')`: accesses the element given the class name

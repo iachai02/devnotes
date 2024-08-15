@@ -113,3 +113,6 @@
 
 #### 2024-08-13
 - finished the javascript course for freecodecamp
+
+#### 2024-08-14
+- started the javascript course on youtube and around 5 hours in
