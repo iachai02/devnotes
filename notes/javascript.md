@@ -47,3 +47,11 @@ const obj = {
 - `obj.property`: to access a property of the object
 - `obj['property']`: another way to access the property of the object
 - `delete obj.property`: deletes the property
+- `JSON`: JavaScript Object Notation
+    - similar to javascript object, with less features (need to use "" and also can't use functions)
+    - can be understood by most programming languages
+- `JSON.stringify(object)`: converts to JSON syntax
+- `JSON.parse(json)`: converts JSON back to an object
+- `const object2 = object1`: this is just copying a reference to object2
+- when you are comparing two objects, you are comparing the references, not the values inside
+- `const { property } = object`: destructuring; takes the property from object and saves it to a variable
