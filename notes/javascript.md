@@ -30,3 +30,9 @@
 - `===`: used to compare two things
 - `&&`: AND operator
 - `||`: OR operator
+- `?`: ternary operator
+
+## Functions
+
+- `function functionName(param1) {}`: creates a function
+- 
