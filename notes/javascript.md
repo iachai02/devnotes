@@ -35,4 +35,15 @@
 ## Functions
 
 - `function functionName(param1) {}`: creates a function
-- 
+
+## Objects
+
+```javascript
+const obj = {
+    name: 'socks',
+    price: 1090
+};
+```
+- `obj.property`: to access a property of the object
+- `obj['property']`: another way to access the property of the object
+- `delete obj.property`: deletes the property
