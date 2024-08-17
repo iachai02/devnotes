@@ -66,3 +66,9 @@ const obj = {
 - `document.body.innerHTML`: will change the html inside the body element to whatever you assign it to
 - `document.querySelector('htmlElement')`: access any html element
     - `document.querySelector('.className')`: accesses the element given the class name
+- `document.innerText('htmlElement')`: will get only the text not the entire html element
+- `element.value`: gets the value of the element
+
+## HTML, CSS, and Javscript Together
+- `element.classList.add('class')`: adds a new class to the element
+- `element.classList.remove('class')`: removes a class from the element
