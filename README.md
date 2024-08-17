@@ -119,3 +119,6 @@
 
 #### 2024-08-15
 - continued the javascript course on youtube
+
+#### 2024-08-16
+- continued the javascript course on youtube 8 hours in

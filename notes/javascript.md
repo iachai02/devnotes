@@ -72,3 +72,7 @@ const obj = {
 ## HTML, CSS, and Javscript Together
 - `element.classList.add('class')`: adds a new class to the element
 - `element.classList.remove('class')`: removes a class from the element
+
+## Arrays and Loops
+- `array.splice(0, 1)`: removes from the array (removed the first index of the array)
+- `array.push(variable)`: add a value to an array
