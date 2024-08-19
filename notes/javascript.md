@@ -86,3 +86,5 @@ const obj = {
 - `const arrowFunction = () => {}`: arrow function
 - `element.addEventListener('click', function)`: adds an event to an element
 - `element.removeEventListener('click', function)`: removes an event
+- `array.filter((value, index) => { condition to filter })`: filters out values based on criterias in the condition
+- `array.map((value, index) => {})`: creates a new array and whatever we return, will be added to the new array
