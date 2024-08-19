@@ -76,3 +76,13 @@ const obj = {
 ## Arrays and Loops
 - `array.splice(0, 1)`: removes from the array (removed the first index of the array)
 - `array.push(variable)`: add a value to an array
+
+## Advanced Functions
+- `setTimeout(function, milliseconds)`: waits for x amount of milliseconds and then call the function
+- `setInterval(function, milliseconds)`: waits for x amount of milliseconds and then continually calls the function
+- `clearInterval(intervalId)`: clears an interval
+`.forEach(function(value){})`: allows to loop through the array
+    - using `return` is the same thing as `continue` for this function
+- `const arrowFunction = () => {}`: arrow function
+- `element.addEventListener('click', function)`: adds an event to an element
+- `element.removeEventListener('click', function)`: removes an event
