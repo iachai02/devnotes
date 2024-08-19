@@ -88,3 +88,14 @@ const obj = {
 - `element.removeEventListener('click', function)`: removes an event
 - `array.filter((value, index) => { condition to filter })`: filters out values based on criterias in the condition
 - `array.map((value, index) => {})`: creates a new array and whatever we return, will be added to the new array
+
+## Modules
+- Help organize code so that when using multiple files, you can confine the variables to each file
+- helps avoid naming conflicts
+- create a module:
+    - create a file
+    - don't load the file with `<script>`
+- get a variable out of a file
+    - add type="module" attribute to your script tag
+    - `export const variableName`
+    - `import {variableName (optional but can add "as diffVariableName")} from 'filePath'`
