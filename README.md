@@ -127,4 +127,4 @@
 - continued the javascript course on youtube
 
 #### 2024-08-19
-- 
+- on hour 15 of the javascript course
