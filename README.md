@@ -128,3 +128,6 @@
 
 #### 2024-08-19
 - on hour 15 of the javascript course
+
+#### 2024-08-20
+- on hour 17 of the javascript course
