@@ -131,3 +131,7 @@
 
 #### 2024-08-20
 - on hour 17 of the javascript course
+
+#### 2024-08-21
+- finished javascript course and also finished a rough clone of amazon
+- started on personal project website
