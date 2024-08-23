@@ -135,3 +135,6 @@
 #### 2024-08-21
 - finished javascript course and also finished a rough clone of amazon
 - started on personal project website
+
+#### 2024-08-22
+- worked more on the personal website project
