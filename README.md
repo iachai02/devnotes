@@ -141,3 +141,6 @@
 
 #### 2024-08-23
 - worked on the personal website project
+
+#### 2024-08-24
+- worked more on the personal website website
