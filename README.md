@@ -144,3 +144,8 @@
 
 #### 2024-08-24
 - worked more on the personal website website
+
+#### 2024-08-26
+- stopped working on personal website project
+- started discovering other personal projects to work on
+- finished calculator app, but still configure the css for it
