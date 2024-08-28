@@ -149,3 +149,6 @@
 - stopped working on personal website project
 - started discovering other personal projects to work on
 - finished calculator app, but still configure the css for it
+
+#### 2024-08-27
+- still figuring out what project to start on
