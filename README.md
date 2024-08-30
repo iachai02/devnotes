@@ -155,3 +155,6 @@
 
 #### 2024-08-28
 - working on different projects
+
+#### 2024-08-29
+- working on different projects and applying
