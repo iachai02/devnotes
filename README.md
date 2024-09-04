@@ -164,3 +164,9 @@
 
 #### 2024-09-02
 - working on applying and more projects
+
+#### 2024-09-03
+- worked on my resume
+- updated my linkedin
+- wrote down project ideas
+- started some applications
