@@ -170,3 +170,14 @@
 - updated my linkedin
 - wrote down project ideas
 - started some applications
+
+#### 2024-09-04
+- started on drivers app project
+
+#### 2024-09-05
+- finished github profile page
+- continued to brainstorm ideas for the drivers app project and how it works
+- started learning react
+
+#### 2024-09-06
+- continued learning react
