@@ -241,3 +241,12 @@
 
 - Finished typescript notes
 - continued learning react
+
+#### 2024-09-10
+
+- finished the react notes
+- start working on personal project
+
+#### 2024-09-11
+
+-
