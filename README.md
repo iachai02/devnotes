@@ -249,4 +249,5 @@
 
 #### 2024-09-11
 
--
+- created the personal project
+- working on the homepage layout as well as the navbar
