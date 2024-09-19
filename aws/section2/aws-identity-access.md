@@ -1,6 +1,4 @@
-# AWS Identity and Access Management (IAM) Notes
-
-## AWS Identity and Access Management (IAM)
+# AWS Identity and Access Management (IAM)
 
 - IAM Principals must be authenticated to send requests (with a few exceptions)
 - A principal is a person or application that can make a request for an action or operation on an AWS resource
@@ -13,7 +11,7 @@
     - identity based policies can be applied to users, groups, and roles
     - define the permissions for the identities or resources they are associated with
 
-### IAM Users
+## IAM Users
 
 - the root user has full permissions
 - best practice to not use root user + enable MFA (Multi-factor authentication)
@@ -24,7 +22,7 @@
     - ex: arn:aws:iam:: 625148252389
 - Authentication via username/password for console of access keys for API/CLI
 
-### IAM User Groups
+## IAM User Groups
 
 - helps from a management perspective
 - 3 groups
@@ -35,14 +33,14 @@
 - main reason to use groups is to apply permissions to users using policies
 - user gains the permissions applied to the group through the policy
 
-### IAM Authentication Methods
+## IAM Authentication Methods
 
 - user -> username and password (mfa token optional) -> AWS IAM account -> AWS management console
   - the user is authenticated and can perform operations in the console
 - Command line interface/API -> access key ID and Secret access key -> AWS IAM account -> AWS API
   - access keys are used for programmatic access
 
-### Root User vs IAM User
+## Root User vs IAM User
 
 - Root user
   - login: email address
