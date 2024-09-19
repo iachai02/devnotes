@@ -255,3 +255,19 @@
 #### 2024-09-12
 
 - kept working on the personal project
+
+#### 2024-09-13
+
+- finished the signup and login page
+
+#### 2024-09-16
+
+- finished the css for the signup and login page
+
+#### 2024-09-17
+
+- finished the homepage and the navbar as well as organize and plan more for the project and signup form
+
+#### 2024-09-18
+
+- worked on aws certification
