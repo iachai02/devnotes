@@ -1,0 +1,41 @@
+# EC2 Instance Lifecycle
+
+- AMI -> Launch -> Pending
+- Pending -> Running <-> Rebooting
+- Running -> stopping (relevant to EBS-backed volumes only)
+- stopping -> stopped
+- stopped -> terminated or pending
+- Running -> Shutting Down
+- Shutting Down -> Terminated
+- stopping EC2 instances
+  - EBS backed instances only
+  - no charge for stopped instances
+  - EBS volumes remain attached (chargeable)
+  - data in RAM is lost
+  - instance is migrated to a different host
+  - private IPv4 addresses and IPv6 addresses retained; public IPv4 addresses released
+  - associated elastic IPs retained
+- hibernating EC2 instances
+  - applies to supported AMIs
+  - contents of RAM saved to EBS volume
+  - must be enabled for hibernation when launched
+  - specific prerequisites apply
+  - when started (after hibernation):
+    - the EBS root volume is restored to its previous state
+    - the RAM contents are reloaded
+    - the processes that were previously running on the instances were resumed
+    - previously attached data volumes are reattached and the instance retains its instance ID
+- rebooting EC2 instances
+  - equivalent to an OS reboot
+  - DNS name and all IPv4 and IPv6 addresses retained
+- retiring EC2 instances
+  - instances may be retired if AWS detects irreparable failure of the underlying hardware that hosts the instance
+  - when an instance reaches its scheduled retirement date, it is stopped or terminated by AWS
+- terminating EC2 instances
+  - means deleting the EC2 instance
+  - cannot recover a terminated instance
+  - by default, root EBS volumes are deleted
+- recovering EC2 instances
+  - CloudWatch can be used to monitor system status checks and recover instance if needed
+  - applies if the instance becomes impaired due to underlying hardware/platform issues
+  - recovered instance is identical to original instance
