@@ -271,3 +271,27 @@
 #### 2024-09-18
 
 - worked on aws certification
+
+#### 2024-09-19
+
+- worked on project
+
+#### 2024-09-20
+
+- working on aws certification
+
+#### 2024-09-21
+
+- finished section 2
+
+#### 2024-09-23
+
+- worked on aws certification
+
+#### 2024-09-24
+
+- finished section 3 and working on section 4
+
+#### 2024-09-25
+
+- working on section 4 for aws certification
