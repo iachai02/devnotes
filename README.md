@@ -295,3 +295,7 @@
 #### 2024-09-25
 
 - working on section 4 for aws certification
+
+#### 2024-09-26
+
+- working more on section 4 for aws certification
