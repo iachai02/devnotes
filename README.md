@@ -303,3 +303,31 @@
 #### 2024-09-27
 
 - working on apps, aws certification
+
+#### 2024-09-28
+
+- working on campusride website
+
+#### 2024-09-30
+
+- working on campusride website
+
+#### 2024-10-01
+
+- working on campusride website
+
+#### 2024-10-02
+
+- working on resume/website
+
+#### 2024-10-03
+
+- working on resume
+
+#### 2024-10-04
+
+- applying to jobs
+
+#### 2024-10-05
+
+- applying to jobs
