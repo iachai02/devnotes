@@ -331,3 +331,22 @@
 #### 2024-10-05
 
 - applying to jobs
+
+#### 2024-10-06
+
+- applying to jobs
+
+#### 2024-10-08
+
+- applying to jobs
+- organize leetcode 150 (neetcode 150) flashcards for spaced repetition
+
+#### 2024-10-09
+
+- leetcode problems:
+  - twoSum (easy): needed help
+  - Contains Duplicate (easy): completed easily
+  - Valid Anagram (easy): had the right idea, did not execute
+  - Group Anagrams (med): needed help
+  - Top K Frequent Elements (med): had the right idea, did not execute
+- applied to jobs
