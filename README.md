@@ -363,4 +363,7 @@
 #### 2024-10-11
 
 - leetcode problems:
-  -
+  - Top K Frequent Elements (med): had the right idea, did not execute
+  - Group Anagrams (med): completed
+  - Encode and Decode (med): needed help
+  - Valid Sudoku (med): had the right idea, did not execute
