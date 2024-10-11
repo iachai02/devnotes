@@ -358,3 +358,9 @@
   - Group Anagrams (med): had the right idea, did not execute
   - Encode and Decode (med): needed help
   - Valid Sudoku (med): needed help
+- applied to jobs
+
+#### 2024-10-11
+
+- leetcode problems:
+  -
