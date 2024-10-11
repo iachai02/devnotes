@@ -350,3 +350,11 @@
   - Group Anagrams (med): needed help
   - Top K Frequent Elements (med): had the right idea, did not execute
 - applied to jobs
+
+#### 2024-10-10
+
+- leetcode problems:
+  - Top K Frequent Elements (med): had the right idea, did not execute
+  - Group Anagrams (med): had the right idea, did not execute
+  - Encode and Decode (med): needed help
+  - Valid Sudoku (med): needed help
