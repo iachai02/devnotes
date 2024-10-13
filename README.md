@@ -367,3 +367,9 @@
   - Group Anagrams (med): completed
   - Encode and Decode (med): needed help
   - Valid Sudoku (med): had the right idea, did not execute
+- applied to jobs
+
+#### 2024-10-12
+
+- leetcode problem:
+  - Valid Sudoku (med): easily completed
