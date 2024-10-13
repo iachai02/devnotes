@@ -373,3 +373,4 @@
 
 - leetcode problem:
   - Valid Sudoku (med): easily completed
+- applied to jobs
