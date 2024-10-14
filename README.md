@@ -374,3 +374,11 @@
 - leetcode problem:
   - Valid Sudoku (med): easily completed
 - applied to jobs
+
+#### 2024-10-14
+
+- leetcode problems:
+  - encode and decode (med): had the right idea, did not execute
+  - contains duplicate (easy): completed
+  - Top K Frequent Elements (med): had the right idea, did not execute
+  - Valid Anagram (easy): completed
