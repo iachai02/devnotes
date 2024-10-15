@@ -382,3 +382,5 @@
   - contains duplicate (easy): completed
   - Top K Frequent Elements (med): had the right idea, did not execute
   - Valid Anagram (easy): completed
+  - Product of Array Except Self (med): needed help
+  - Two Sum (easy): completed
