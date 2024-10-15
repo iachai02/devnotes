@@ -384,3 +384,4 @@
   - Valid Anagram (easy): completed
   - Product of Array Except Self (med): needed help
   - Two Sum (easy): completed
+- Applied to more jobs
