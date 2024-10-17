@@ -389,3 +389,13 @@
 #### 2024-10-15
 
 - applied to more jobs
+
+#### 2024-10-16
+
+- applied to more jobs
+- did tiktok hackerrank
+
+#### 2024-10-17
+
+- leetcode problems:
+  - valid sudoku (med): completed
