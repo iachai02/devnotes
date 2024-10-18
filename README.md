@@ -402,3 +402,12 @@
   - product of array except self (med): needed help
   - Top K Frequent Elements (med): had the right idea, did not execute
   - Encode and Decode (med): had the right idea, did not execute
+
+#### 2024-10-18
+
+- leetcode problems:
+  - Top K Frequent Elements (med): completed
+  - Encode and Decode (med): completed
+  - Longest Consecutive Sequence (med): needed help
+  - Group Anagrams (med): had the right idea, did not execute
+  - Valid Palindrome (easy): needed help
