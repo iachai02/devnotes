@@ -399,3 +399,6 @@
 
 - leetcode problems:
   - valid sudoku (med): completed
+  - product of array except self (med): needed help
+  - Top K Frequent Elements (med): had the right idea, did not execute
+  - Encode and Decode (med): had the right idea, did not execute
