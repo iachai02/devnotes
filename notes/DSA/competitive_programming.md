@@ -105,3 +105,10 @@ int d = v[i].F+v[i].S;
   - universal set = {1, 2, ..., 10}. A = {1, 2, 5, 7} then A complement = {3, 4, 6, 8, 9, 10}
 - difference: consists of elements that are in A but not in B
   - A = {2, 3, 7, 8}, B = {3, 5, 8} then A \ B = {2, 7}
+
+## Logic
+
+- logical expression is either true (1) or false (0)
+  - negation, conjunction, disjunction, implication, and equivalence
+- predicate: is an expression that is true or false depending on its parameters
+- quantifier: connects a logical expression to the elements of a set
