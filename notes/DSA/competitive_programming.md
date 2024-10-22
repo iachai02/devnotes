@@ -80,3 +80,28 @@ v.PB(MP(y1, x1));
 v.PB(MP(y2, x2));
 int d = v[i].F+v[i].S;
 ```
+
+## Mathematics
+
+- Arithmetic sequence: is a sequence of numbers where the difference between any two consecutive numbers is constant
+  - 3, 7, 11, 15
+- `n(n+1)/2`: 1 + 2 + 3 + ... + n
+- `n(n+1)(2n+1)/6`: 1^2 + 2^2 + 3^2 + ... + n
+- `n(a + b)/2`: sum of arithmetic progression where `a` is the first number, `b` is the last number, and `n` is the amount of numbers
+- Geometric sequence: is a sequence of numbers where the ratio between any two consecutive numbers is constant
+  - 3, 6, 12, 24
+- `bk - a/k-1`: sum of a geometric progression where `a` is the first number, `b` is the last number and the ratio between consecutive numbers is `k`
+- harmonic sum: 1 + 1/2 + 1/3 + ... + 1/n
+
+## Set theory
+
+- Set: collection of elements
+  - X = {2, 4, 7}
+- intersection: elements that are in both A and B.
+  - A = {1, 2, 5}, B = {2, 4} then A and B = {2}
+- union: elements that are in A or B or both
+  - A = {3, 7}, B = {2, 3, 8} then A or B = {2, 3, 7, 8}
+- complement: consists of elements that are not in A
+  - universal set = {1, 2, ..., 10}. A = {1, 2, 5, 7} then A complement = {3, 4, 6, 8, 9, 10}
+- difference: consists of elements that are in A but not in B
+  - A = {2, 3, 7, 8}, B = {3, 5, 8} then A \ B = {2, 7}
