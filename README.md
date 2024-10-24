@@ -411,3 +411,18 @@
   - Longest Consecutive Sequence (med): needed help
   - Group Anagrams (med): had the right idea, did not execute
   - Valid Palindrome (easy): needed help
+
+#### 2024-10-21
+
+- apply to more jobs and finish an OA
+
+#### 2024-10-22
+
+- Going over competitive programming handbook
+
+#### 2024-10-23
+
+- leetcode problems:
+  - Product of Array Except Self (med): needed help
+  - Longest Consecutive Subsequence (med): needed help
+  - Valid Palindrome (easy): had the right idea, did not execute
