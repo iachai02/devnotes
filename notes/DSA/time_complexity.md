@@ -51,3 +51,14 @@ void f(int n) {
 - O(n^2): quadratic algorithm often contains two nested loops
 - O(n^3): cubic algorithm often contains three nested loops
 - O(2^n): indicates that the algorithm iterates through all permutations of the input elements
+- O(n!): algorithm iterates through all permutations of the input elements
+
+## Estimating efficiency
+
+- input size:
+  n <= 10: O(n!)
+  n <= 20: O(2^n)
+  n <= 500: O(n^3)
+  n <= 5000: O(n^2)
+  n <= 10^6: O(nlogn) or O(n)
+  n is large: O(1) or O(logn)
