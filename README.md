@@ -427,3 +427,7 @@
   - Longest Consecutive Subsequence (med): needed help
   - Valid Palindrome (easy): had the right idea, did not execute
   - Valid Sudoku (med): completed
+
+#### 2024-10-24
+
+- study more the handbook
