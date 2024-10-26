@@ -76,6 +76,7 @@ for (int i = 0; i < n; i++) {
 
 ```C++
 // method 1
+// Time: O(logn)
 int a = 0, b = n - 1;
 while (a <= b) {
     int k = (a + b) / 2;
@@ -85,4 +86,30 @@ while (a <= b) {
     if (array[k] > x) b = k - 1;
     else a = k + 1;
 }
+```
+
+### C++ functions
+
+- C++ standard library contians functions that are based on binary search and work in logarithmic time
+  - lower_bound: returns a pointer to the first array element whose value is at least x
+  - upper_bound: returns a pointer to the first array element whose value is larger than x
+  - equal_range: returns both above pointers
+
+```C++
+// finds the position of x using lower_bound
+auto k = lower_bound(array, array+n, x) - array;
+if (k < n && array[k] == x) {
+    // x found at index k
+}
+
+// counting occurrences of x using lower_bound and upper_bound
+auto a = lower_bound(array, array + n, x);
+auto b = upper_bound(array, array + n, x);
+cout << b - a << "\n";
+
+// shorter version using equal_range
+// r.second = upper_bound(array, array + n, x)
+// r.first = lower_bound(array, array + n, x)
+auto r = equal_range(array, array + n, x);
+cout << r.second - r.first << "\n";
 ```
