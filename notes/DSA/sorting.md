@@ -113,3 +113,16 @@ cout << b - a << "\n";
 auto r = equal_range(array, array + n, x);
 cout << r.second - r.first << "\n";
 ```
+
+## Finding the smallest solution
+
+- we are given a function ok(x) that returns true if x is a vlid solution and false otherwise
+
+```C++
+// finds the largest value of x for which ok(x) is false and returns the smallest possible k value
+int x = -1;
+for (int b = z; b >= 1; b /= 2) {
+    while (!ok(x+b)) x += b;
+}
+int k = x+1;
+```
