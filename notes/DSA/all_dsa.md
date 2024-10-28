@@ -1,0 +1,75 @@
+# All DSA concepts with problems
+
+## Arrays
+
+- 1. Duplicate Values (easy)
+  - use hashset
+  - loop through the array and add the number to the hashset if not in the hashset
+  - check if number is in hashset and if it is, return true
+  - if not, return false
+  - Time: O(n)
+- 2. Missing Number (easy)
+  - get the range of the length of nums array + 1 and get the sum of that
+  - subtract that number with the sum of the nums array to get the missing value
+  - Time: O(n)
+- 3. Find All Missing Numbers (easy)
+  - when thinking about duplicates, think about sets
+  - sets in python are unordered
+  - loop through from 1 to n and check if that number is in the set
+    - if it is not in the set, add that number to array
+  - return the array which holds the numbers that are missing in the set
+  - Time: O(n)
+- 4. Two Sum (easy)
+  - use a hashmap (dictionary)
+  - iterate through the array and add the number with the position to a hashmap while checking if the target - the number is already in the hashmap
+  - if the target - the number is in the hashmap, return the indicies at the current pointer and the index where the value is in the hashmap
+  - Time: O(n)
+- 5. How many numbers are smaller than? (easy)
+  - start off by sorting the list
+  - create an empty dictionary
+  - loop through the enumerated sorted list
+  - create an empty array for the return values
+  - loop through the original list and append the value at the key
+  - Time: O(nlogn)
+- 6. Minimum Time Visiting All Points (easy)
+  - distance between two points is max difference of one coordinate
+  - i.e. if the next node is +10x and -5y, then it's going to take exactly 10 steps (seconds) because you can only move 1x at a time
+  - have a res variable to keep track of the amount of seconds
+  - pop off the first point from the points array given
+  - iterate through all the points in the array
+    - pop off the next point
+    - add the max difference between the x and y coordinates of both points to the res variable
+  - Time: O(n)
+- 7. Spiral Matrix (med)
+  - have a res array variable that will return the numbers in a spiral
+  - use a while loop to go through the entire matrix
+    - first pop off the first row of the matrix and add to res
+    - if there are values in the matrix and the first list in the matrix is truthy
+      - iterate through each row and pop out the last element in order and add to res
+    - if there are values in the matrix, add the reverse of the last row to res and pop it off
+    - if there are values in the matrix and the first list in the matrix is truthy
+      - iterate through each row in reverse and pop off the elements in order to the res array
+  - Time: O(n)
+- 8. Number of Islands (med)
+  - use breadth-first search
+  - first check for grid
+    - return 0 if no grid
+  - keep track of the length of rows and columns as well as an empty set for visited
+  - iterate through the rows and columns
+    - checks if at the position = "1" and not visited
+      - use bfs at that position
+      - this would check for the position above it, to the right, to the left, and below it
+      - everytime it does so, it will mark it as visited and add to the queue and continually pop off the queue until there is no coordinates left
+    - adds to count indicating one island
+  - Time: O(m\*n)
+
+### Two-pointers
+
+- 1. Best Time to Buy and Sell Stock (easy)
+  - have a left and right pointer at the first index and second index
+  - go through a while loop while not at the end of the list
+  - check if the prices at left is less than price at right
+    - calculate profit and compare that profit to the max profit
+  - make left = right if above is not true
+  - add one to right
+  - Time: O(n)
