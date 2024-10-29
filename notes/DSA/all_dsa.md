@@ -73,13 +73,14 @@
   - make left = right if above is not true
   - add one to right
   - Time: O(n)
-- 2. Sorted Array Square
-  - First check if there are no numbers in the array, then return nums and if there are no negative numbers in the array, then return the sqaure of each num because the problem says the array is sorted in non-decreasing order
-  - find the first positive number in the array and save that index
-  - split the array into two parts: one array with the number from the first positive integer to the last integer in the array and another array reversed and changed from negative to positive numbers not including the first positive integer found in the array
-  - merge the two arrays using a pointer for one array and pointer for the other array
-  - while loop checking if both pointers are less than the total length of each array
-    - checks if the value at the pointer for the first array is smaller than the value at the pointer for the second array
-      - add whichever is smaller to the array and update that pointer
-- check for whichever array has numbers left unchecked and add those to the end of the list
-- now we have a list of numbers in non-decreasing order and we square everything
+- 2. Sorted Array Square (easy)
+  - empty list answer to return (collections.deque())
+  - have a left pointer for index 0 and a right pointer for the last index
+  - iterate through the loop while the left pointer is less than or equal to the right pointer
+    - get the absolute value at index left and right pointer
+    - check if left is greater than right and append to the left the square to the answer
+      - update the left pointer by 1
+    - same thing but decrement for the right pointer
+  - Time: O(n)
+- 3. 3Sum (med)
+  -
