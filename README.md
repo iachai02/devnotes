@@ -431,3 +431,25 @@
 #### 2024-10-24
 
 - study more the handbook
+
+#### 2024-10-25
+
+- leetcode problems:
+  - Product of Array Except Self (med): had the right idea, did not execute
+
+#### 2024-10-26
+
+- working on the handbook
+
+#### 2024-10-28
+
+- leetcode problems:
+  - Longest Consecutive Sequence (med): completed
+
+#### 2024-10-29
+
+- leetcode problems:
+  - Product of Array Except Self (med): needed help
+  - Valid Palindrome (easy): had the right idea, did not execute
+  - Valid Sudoku (med): completed
+  - Longest Consecutive Sequence (med): had the right idea, did not execute
