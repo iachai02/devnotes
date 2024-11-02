@@ -453,3 +453,8 @@
   - Valid Palindrome (easy): had the right idea, did not execute
   - Valid Sudoku (med): completed
   - Longest Consecutive Sequence (med): had the right idea, did not execute
+
+#### 2024-11-01
+
+- leetcode problems:
+  -
