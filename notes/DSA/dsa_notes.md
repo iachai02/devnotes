@@ -14,3 +14,22 @@
     - Implementation: Tree map, hash map/hash table
   - Vehicle
     - Implementation: Golf cart, smart car
+
+## Complexity Analysis
+
+- Big-O Notation gives the upper bound of the complexity in the worst case
+- Big-O notation from smallest to largest where n = the size of the input
+  - Constant time: O(1)
+  - Logarithmic time: O(logn)
+  - Linear time: O(n)
+    - loop
+  - Linearithmic Time: O(nlogn)
+    - sorting using mergesort
+  - Quadric Time: O(n^2)
+    - nested loop
+  - Cubic Time: O(n^3)
+    - nested loop
+  - Exponential Time: O(b^n), b > 1
+    - finding all subsets of a set
+  - Factorial Time: O(n!)
+    - finding all permutations of a string
