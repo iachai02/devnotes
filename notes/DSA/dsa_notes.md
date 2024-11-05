@@ -130,3 +130,51 @@
   - `Contains`: O(n)
   - `Removal`: O(n)
   - `Is empty`: O(1)
+
+## Priority Queues with an interlude on heaps
+
+- What is a PQ?
+  - an abstract data type that operates similar to a normal queue except that each element has a certain priority
+  - NOTE: priority queues only supports comparable data, meaning the data inserted into the priority queue must be able to be ordered in some way either from least to greatest or greatest to least
+  - uses a heap
+- What is a heap?
+  - a tree based DS that satisfies the heap invariant (also called heap property): If A is a parent node of B then A is ordered with respect to B for all nodes A, B in the heap
+  - either the parent node is greater than all the child nodes or the parent node is less than all the child nodes
+- When are where is a PQ used?
+  - used in certain implementations of Dijkstra's Shortest path algorithm
+  - anytime you need the dynamically fetch the 'next best' or 'next worst' element
+  - used in huffman coding (which is often used for lossless data compression)
+  - best first search algorithms such as A\* use PQs to continuously grab the next most promising node
+  - used by minimum spanning tree
+- Complexity PQ with binary heap
+  - `binary heap construction`: O(n)
+  - `polling`: O(logn)
+  - `peeking`: O(1)
+  - `Adding`: O(logn)
+  - `naive removing`: O(n)
+  - `advanced removing with help from a hash table`: O(logn)
+  - `naive contains`: O(n)
+  - `contains check with help of a hash table`: O(1)
+
+## Turning Min PQ into Max PQ
+
+- often times the standard library of most programming languages only provide a min PQ which sorts by smallest elements first, but sometimes we need a max PQ
+
+## Adding Elements to Binary Heap
+
+- What is a binary heap?
+  - binary tree that supports the heap invariant. In a binary tree every node has exactly two children
+- What is a complete binary tree?
+  - a tree in which at every level, except possibly the last is completely filled and all the nodes are as far left as possible
+- bubble up when inserting to keep the tree leveled and balanced
+
+## Removing Elements from Binary Heap
+
+- swap the element that you want to remove with the last element
+- get rid of that element
+- bubble up or down depending on the location and the value of the node
+
+## Removing Elements from Binary Heap in O(logn)
+
+- the inefficiency of the removal algorithm comes from the fact that we have to perform a linear search to find out where an element is indexed at. What if we used a Hashtable to find out where a node is indexed at?
+- in the hashtable, swap the values of the indexes
