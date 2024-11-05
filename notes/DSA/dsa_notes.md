@@ -178,3 +178,23 @@
 
 - the inefficiency of the removal algorithm comes from the fact that we have to perform a linear search to find out where an element is indexed at. What if we used a Hashtable to find out where a node is indexed at?
 - in the hashtable, swap the values of the indexes
+
+## Union Find (disjoint set)
+
+- What is union find?
+  - a data structure that keeps track of elements which are split into one or more disjoint sets
+  - two primary operations: find and union
+- When and where is a union find used?
+  - kruskal's minimum spanning tree algorithm
+  - grid percolation
+  - network connectivity
+  - least common ancestor in trees
+  - image processing
+- complexity
+  - `construction`: O(n)
+  - `union`: amortized constant time
+  - `find`: amortized constant time
+  - `get component size`: amortized constant time
+  - `check if connected`: amortized constant time
+  - `count components`: O(1)
+    - amortized constant time: average time taken for a series of operations is constant, even though the individual operations may take longer
