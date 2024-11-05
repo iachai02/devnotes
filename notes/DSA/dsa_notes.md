@@ -113,3 +113,20 @@
   - `peeking`: O(1)
   - `searching`: O(n)
   - `size`: O(1)
+
+## Queues
+
+- What is a queue?
+  - a lienar data structure which models real wworld queues by having two primary operations, namely enqueue (adding) and dequeue (removing/polling)
+- WHen and where is a queue used?
+  - any waiting line models a queue, for example a lineup at a movie theater
+  - can be used to efficiently keep track of the x most recently added items
+  - web server request management where you want first come first serve
+  - breadth first search graph traversal
+- Complexity
+  - `Enqueue`: O(1)
+  - `Dequeue`: O(1)
+  - `Peeking`: O(1)
+  - `Contains`: O(n)
+  - `Removal`: O(n)
+  - `Is empty`: O(1)
