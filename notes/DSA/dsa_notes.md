@@ -228,4 +228,39 @@
 
 ## Binary Trees and Binary Search Trees (BST)
 
--
+- What is a binary tree?
+  - a tree for which every node has at most two child nodes
+- What is a binary search tree?
+  - a binary tree that satisfies the BST invariant: left subtree has smaller elements and right subtree has larger elements
+- When and where are binary trees used?
+  - binary search trees (BST)
+    - implementation of some map and set ADTs
+    - Red black trees
+    - AVL Trees
+    - Splay trees
+  - used in implementation of binary heaps
+  - syntax trees (used by compilers and calculators)
+  - treap - probabilistic DS (uses a randomized BST)
+- Complexity of BSTs
+  - `Insert`
+    - Avg: O(logn)
+    - Worst: O(n)
+  - `Delete`
+    - Avg: O(logn)
+    - Worst: O(n)
+  - `Remove`
+    - Avg: O(logn)
+    - Worst: O(n)
+  - `Search`
+    - Avg: O(logn)
+    - Worst: O(n)
+
+## Inserting elements into a Binary Search Tree (BST)
+
+- adding elements to a BST
+  - elements must be comparable so that we can order them inside the tree
+  - when inserting either:
+    - recurse down left subtree
+    - recurse down right subtree
+    - handle finding a duplicate value
+    - create a new node
