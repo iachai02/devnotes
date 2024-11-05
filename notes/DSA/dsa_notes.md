@@ -96,3 +96,20 @@
   - `remove at head`: O(1)
   - `remove at tail`: O(1)
   - `remove in middle`: O(n)
+
+## Stack
+
+- What is a stack?
+  - one-ended linear data structure which models a real world stack by having two primary operations, namely push and pop
+- When are where is a stack used?
+  - used by undo mechanisms in text editors
+  - used in compiler syntax checking for matching brackets and braces
+  - can be used to model a pile of books or plate
+  - used behind the scenes to support recursion by keeping track of previous function calls
+  - can be used to do a depth first search on a graph
+- complexity
+  - `pushing`: O(1)
+  - `popping`: O(1)
+  - `peeking`: O(1)
+  - `searching`: O(n)
+  - `size`: O(1)
