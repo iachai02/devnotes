@@ -264,3 +264,21 @@
     - recurse down right subtree
     - handle finding a duplicate value
     - create a new node
+
+## Removing elements from a Binary Search Tree (BST)
+
+- to remove
+  1. find the element we wish to remove (if it exists)
+     - hit a null node, then we know the value doesn't exist
+     - comparator value equals to 0 (found it)
+     - comparator value < 0 (is in the left subtree)
+     - comparator value > 0 (is in the right subtree)
+  2. replace the node we want to remove with its successor (if any) to maintain the BST invariant
+     - case 1: leaf node
+       - remove the leaf node
+     - case 2 and 3: either the left/right child node is a subtree
+       - successor of the node we are trying to remove in these cases will be the root node of the left/right subtree
+     - case 4: node to remove has both a left and right subtree
+       - choose successor to be either the smallest value in right subtree or largest in the left subtree
+       - copy that value from the node found int he right subtree to the node we want to remove
+       - remove the value that we swapped with using one of the 3 cases
