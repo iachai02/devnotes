@@ -179,7 +179,9 @@
 - the inefficiency of the removal algorithm comes from the fact that we have to perform a linear search to find out where an element is indexed at. What if we used a Hashtable to find out where a node is indexed at?
 - in the hashtable, swap the values of the indexes
 
-## Union Find (disjoint set)
+## Union Find
+
+### disjoint set
 
 - What is union find?
   - a data structure that keeps track of elements which are split into one or more disjoint sets
@@ -198,3 +200,32 @@
   - `check if connected`: amortized constant time
   - `count components`: O(1)
     - amortized constant time: average time taken for a series of operations is constant, even though the individual operations may take longer
+
+### Kruskal's Algorithm
+
+- What is Kruskal's Minimum Spanning Tree?
+  - find a minimum spanning tree in the graph (it may not be unique)
+  - `minimum spanning tree`: subset of edges which connect all vertices in the graph with the minimal total edge cost
+- Algorithm
+  1. Sort edges by ascending edge weight
+  2. walk through the sorted edges and look at the two nodes the edge belongs to, if the nodes are already unified we don't include this edge, otherwise we include it and unify the nodes
+  3. algorithm terminates when every edge has been processed or all the vertices have been unified
+
+### Union and Find Operations
+
+- creating union find
+  - begin using union find, first construct a bijection (a mapping) between your objects and the integers in the range [0, n)
+  - map a node to a number randomly and add that key, value pair to a hashtable
+- find operation
+  - to find which component a particular element belongs to find the root of that component by following the parent nodes until a self loop is reached (a node who's parent is itself)
+- union operation
+  - to unify two elements find which are the root nodes of each component and if the root nodes are different make one of the root nodes be the parent of the other
+- complexity is not the greatest
+
+### Path Compression Union Find
+
+- the idea is when you take the union, the nodes are then trying to find the root node and then makes that their parent instead of the node before
+
+## Binary Trees and Binary Search Trees (BST)
+
+-
