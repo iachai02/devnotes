@@ -282,3 +282,11 @@
        - choose successor to be either the smallest value in right subtree or largest in the left subtree
        - copy that value from the node found int he right subtree to the node we want to remove
        - remove the value that we swapped with using one of the 3 cases
+
+## Tree Traversals (preorder, inorder, postorder, level order)
+
+- preorder: prints before the recursive calls
+- inorder: prints between recursive calls
+  - with a BST, the values are printed in increasing order
+- postorder: prints after the recursive calls
+- level order: print nodes as they appear one layer at a time
