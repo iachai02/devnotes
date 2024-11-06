@@ -290,3 +290,11 @@
   - with a BST, the values are printed in increasing order
 - postorder: prints after the recursive calls
 - level order: print nodes as they appear one layer at a time
+
+## Hash Tables
+
+- What is a hash table?
+  - data structure that provides a mapping from keys to values using a technique called hashing
+  - we refer to these as key-value pairs
+  - keys must be unique, but values can be repeated
+- `hash function`: a function that maps a key 'x' to a whole number in a fixed range
