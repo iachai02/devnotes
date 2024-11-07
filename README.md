@@ -457,4 +457,9 @@
 #### 2024-11-01
 
 - leetcode problems:
-  -
+
+#### 2024-11-06
+
+- leetcode problems:
+  - Binary Tree Maximum Path Sum (hard): needed help
+  - Word break (med): needed help
