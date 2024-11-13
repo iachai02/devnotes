@@ -463,3 +463,10 @@
 - leetcode problems:
   - Binary Tree Maximum Path Sum (hard): needed help
   - Word break (med): needed help
+
+#### 2024-11-12
+
+- leetcode problems:
+  - Product Of Array Except Self (med): completed
+  - Valid Palindrome (easy): completed
+  - longest consecutive sequence (med): completed
