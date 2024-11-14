@@ -470,3 +470,10 @@
   - Product Of Array Except Self (med): completed
   - Valid Palindrome (easy): completed
   - longest consecutive sequence (med): completed
+
+#### 2024-11-13
+
+- leetcode problems:
+  - Product of Array Except Self (med): completed
+  - Encode and Decode (med): had the right idea, did not execute
+  - Valid Palindrome (easy): completed
