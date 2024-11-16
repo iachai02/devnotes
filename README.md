@@ -492,4 +492,8 @@
 #### 2024-11-15
 
 - leetcode problems:
-  -
+  - Top K Frequent Elements (med): completed
+  - Longest Consecutive Sequence (med): completed
+  - Group Anagrams (med): had the right idea, did not execute
+  - 3Sum (med): needed help
+  - Two Sum II (med): completed
