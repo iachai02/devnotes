@@ -478,3 +478,13 @@
   - Encode and Decode (med): had the right idea, did not execute
   - Valid Palindrome (easy): completed
   - Group Anagram (med): had the right idea, did not execute
+
+#### 2024-11-14
+
+- leetcode problems:
+  - Valid Anagram (easy): completed
+  - Valid Sudoku (med): completed
+  - twoSum (easy): completed
+  - Contains Duplicate (easy): completed
+  - Two Sum II (med): completed using different method
+  - Top K Frequent Elements (med): needed help
