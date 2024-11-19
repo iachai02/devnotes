@@ -509,3 +509,11 @@
   - Container with most water (med): completed
   - Encode and Decode (med): completed
   - Trapping Rain Water (hard): needed help
+
+#### 2024-11-19
+
+- leetcode problems:
+  - Trapping Rain Water (hard): completed
+  - Valid Parenthesis (easy): needed help
+  - Valid Palindrome (easy): completed
+  - Min Stack (med): needed help
