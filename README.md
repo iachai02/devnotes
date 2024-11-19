@@ -498,3 +498,14 @@
   - 3Sum (med): needed help
   - Two Sum II (med): completed
   - Container with most water (med): needed help
+
+#### 2024-11-18
+
+- leetcode problems:
+  - 3Sum (med): completed
+  - Top K Frequent Elements (med): completed
+  - Product of Array Except Self (med): completed
+  - Group Anagrams (med): completed
+  - Container with most water (med): completed
+  - Encode and Decode (med): completed
+  - Trapping Rain Water (hard): needed help
