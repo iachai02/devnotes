@@ -517,3 +517,13 @@
   - Valid Parenthesis (easy): needed help
   - Valid Palindrome (easy): completed
   - Min Stack (med): needed help
+
+#### 2024-11-20
+
+- leetcode problems:
+  - Valid Parentheses (easy): had the right idea, did not execute
+  - MinStack (med): completed
+  - Trapping Rain Water (hard): completed
+  - Two Sum II (med): completed
+  - Longest Consecutive Sequence (med): completed
+  - Evaluate Reverse Polish Notation (med): needed help
