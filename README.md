@@ -527,3 +527,11 @@
   - Two Sum II (med): completed
   - Longest Consecutive Sequence (med): completed
   - Evaluate Reverse Polish Notation (med): needed help
+
+#### 2024-11-23
+
+- leetcode problems:
+  - Valid Parentheses (easy): completed
+  - Evaluate Reverse Polish Notation (med): completed
+  - Container With Most Water (med): completed
+  - Generate Parentheses (med): needed help
