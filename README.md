@@ -535,3 +535,9 @@
   - Evaluate Reverse Polish Notation (med): completed
   - Container With Most Water (med): completed
   - Generate Parentheses (med): needed help
+- work on startup
+
+#### 2024-11-23
+
+- worked on startup
+  - get environment set up
