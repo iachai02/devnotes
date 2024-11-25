@@ -537,7 +537,9 @@
   - Generate Parentheses (med): needed help
 - work on startup
 
-#### 2024-11-23
+#### 2024-11-24
 
 - worked on startup
   - get environment set up
+
+#### 2024-11-25
