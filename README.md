@@ -554,3 +554,14 @@
   - TwoSum (easy): completed
   - Top K Frequent Elements (med): completed
   - Encode and Decode (med): completed
+  - Product of Array Except Self (med): completed
+  - Valid Sudoku (med): completed
+  - Longest Consecutive Sequence (med): completed
+  - Valid Palindrome (easy): completed
+  - Two Sum II (med): completed
+  - Container with most water (med): completed
+  - Trapping Rain Water (hard): completed
+  - Valid Parentheses (easy): had the right idea, did not execute
+  - Min Stack (med): completed
+  - Evalutate Reverse Polish Notation (med): completed
+  - Car Fleet (med): needed help
