@@ -543,3 +543,14 @@
   - get environment set up
 
 #### 2024-11-25
+
+- leetcode problems:
+  - Generate Parentheses (med): completed
+  - 3Sum (med): completed
+  - Daily Temperatures (med): needed help
+  - Group Anagrams (med): had the right idea, did not execute
+  - Contains Duplicate (easy): completed
+  - Valid Anagram (easy): completed
+  - TwoSum (easy): completed
+  - Top K Frequent Elements (med): completed
+  - Encode and Decode (med): completed
