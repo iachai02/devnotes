@@ -565,3 +565,13 @@
   - Min Stack (med): completed
   - Evalutate Reverse Polish Notation (med): completed
   - Car Fleet (med): needed help
+
+#### 2024-11-26
+
+- leetcode problems:
+  - Daily Temperatures (med): had the right idea, did not execute
+  - Generate Parentheses (med): completed
+  - Car fleet (med): needed help
+  - Largest Rectange In Histogram (med): needed help
+- Going through ML freecodecamp course
+- Going through react native course
