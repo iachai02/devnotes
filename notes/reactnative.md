@@ -61,3 +61,15 @@ What is react native?
 
 - a wrapper component that detects various stages of press interactions on its defined children
 - you can create a custom button using pressable
+  - onPressln: press is activated
+  - onLongPress: triggered when a press is held for longer than 500 milliseconds
+  - onPressOut: press gesture is deactivated
+
+## Modal Component
+
+- screen that overlays the app content to provide important information or prompt the user for a decision
+- since they are purposefully interruptive make sure you use them only when necessary
+  - visible
+  - onRequestClose
+  - animationType
+  - presentationStyle
