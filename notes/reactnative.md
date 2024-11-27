@@ -45,3 +45,19 @@ What is react native?
   - UIImageView for iOS
   - ImageView for Android
   - 'img' for the web
+
+## ScrollView Component
+
+- wraps the platform-specific scrolling functionality
+- require a bounded height to function properly
+
+## Button Component
+
+- allows users to trigger actions
+- has platform-specific rendering for iOS and Android
+  - onPress
+
+## Pressable Component
+
+- a wrapper component that detects various stages of press interactions on its defined children
+- you can create a custom button using pressable
