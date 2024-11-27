@@ -73,3 +73,31 @@ What is react native?
   - onRequestClose
   - animationType
   - presentationStyle
+
+## StatusBar Component
+
+- allows you to control the application's status bar
+- the status bar is the zone, typically at the top of the screen, that displays the current time, Wi-Fi and netowrk information, battery level other status icons
+  - backgroundColor
+  - barStyle
+  - hidden
+
+## ActivityIndicator Component
+
+- displays a circular loading indicator
+- used to inform users about the status of ongoing processes, such as loading an app, submitting a form, or saving updates
+  - size
+  - color
+  - animating
+
+## Alert Component
+
+- launches an alert dialog with specified title and message
+- optionally, you can also specify a list of buttons
+
+## Styling React Native Apps
+
+- react native does not use CSS for styling
+- you style your app using JavaScript
+- Names are written in camel case
+  - Ex. backgroundColor instead of background-color
