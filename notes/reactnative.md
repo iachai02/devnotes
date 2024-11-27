@@ -22,9 +22,26 @@ What is react native?
 - At runtime, React Native generates the corresponding Android and iOS views for these components
 - React Native offers a collection of essential pre-built components known as "core components", which are readily available for building your native app's user interface
 
-## View
+## View Component
 
 - view component: fundamental core component in React Native that serves as a building block for creating user interfaces
 - functions as a container that suports layout using flexbox, styling, touch handling, and accessibility controls
 - can be compared to the `<div>` tag
 - typically nested inside other views and can have zero or more children of any type
+
+## Text Component
+
+- component for displaying text
+- supports nesting, styling, and touch handling
+- will translate this component to either UITextView (iOS), a TextView (Android), or a 'p' (web)
+
+## Image Component
+
+- image component enables us to display various types of images, including:
+  - static images
+  - network images
+  - images from the local disk, such as the camera roll
+- react native seamlessly translates the image component to platform-specific counterparts:
+  - UIImageView for iOS
+  - ImageView for Android
+  - 'img' for the web
