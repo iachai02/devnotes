@@ -100,4 +100,11 @@ What is react native?
 - react native does not use CSS for styling
 - you style your app using JavaScript
 - Names are written in camel case
-  - Ex. backgroundColor instead of background-color
+  - Ex. backgroundColor inste
+- style approaches:
+  - inline styles
+  - StyleSheet API
+
+## Box Model
+
+- Margin, border, padding, content

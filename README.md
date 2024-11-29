@@ -575,3 +575,12 @@
   - Largest Rectange In Histogram (med): needed help
 - Going through ML freecodecamp course
 - Going through react native course
+
+#### 2024-11-28
+
+- leetcode problems:
+  - Daily Temperatures (med): completed
+  - Car Fleet (med): needed help
+  - Largest Rectangle In Histogram (hard): needed help
+  - Min Stack (med): completed
+- Work on startup
