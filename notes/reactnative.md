@@ -107,4 +107,8 @@ What is react native?
 
 ## Box Model
 
-- Margin, border, padding, content
+- margin, border, padding, content
+- width, height: measures dimensions of a component ( unitless)
+- padding, paddingHorizontal, paddingVertical
+- margin, marginHorizontal, marginVertical
+- borderWidth, borderColor, borderStyle
