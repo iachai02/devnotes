@@ -112,3 +112,25 @@ What is react native?
 - padding, paddingHorizontal, paddingVertical
 - margin, marginHorizontal, marginVertical
 - borderWidth, borderColor, borderStyle
+
+## Component
+
+- Syntax
+
+```Typescript
+const component = () => {
+    return <Text>Component</Text>
+}
+```
+
+- Example
+
+```Typescript
+function Index() {
+    return <Greet />;
+}
+
+function Greet() {
+    return <Text>Good Day Mr. HuXn</Text>;
+}
+```
