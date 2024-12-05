@@ -584,3 +584,15 @@
   - Largest Rectangle In Histogram (hard): needed help
   - Min Stack (med): completed
 - Work on startup
+
+#### 2024-12-03
+
+- leetcode problems:
+  - Car Fleet (med): had the right idea, did not execute
+  - Largest Rectangle in Histogram (hard): had the right idea, did not execute
+  - Min Stack (med): completed
+  - Top K Frequent Elements (med): completed
+  - Contains Duplicate (easy): completed
+  - Group Anagrams (med): completed
+- Jobs Applied:
+  - JP Morgan, GA (AI and Autonomous Software), GA (Associate software engineer), FactSet, Apple (Software Engineer), Vivint,
