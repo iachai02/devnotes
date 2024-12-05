@@ -596,3 +596,17 @@
   - Group Anagrams (med): completed
 - Jobs Applied:
   - JP Morgan, GA (AI and Autonomous Software), GA (Associate software engineer), FactSet, Apple (Software Engineer), Vivint,
+
+#### 2024-12-04
+
+- leetcode problems:
+  - Car Fleet (med): completed
+  - Largest Rectangle Area (hard): completed
+  - Valid Anagram (easy): completed
+  - Encode and Decode (easy): completed
+  - Two Sum (easy): completed
+  - Daily Temperatures (med): completed
+  - Product of Array Except Self (med): had the right idea, did not execute
+  - Valid Parentheses (easy): completed
+- Jobs Applied:
+  - Microsoft (SWE - Security), WeavesGrid (SWE - Fullstack), Visa (SWE) - Redmond, Visa (SWE) - Foster City,
