@@ -610,3 +610,16 @@
   - Valid Parentheses (easy): completed
 - Jobs Applied:
   - Microsoft (SWE - Security), WeavesGrid (SWE - Fullstack), Visa (SWE) - Redmond, Visa (SWE) - Foster City,
+
+#### 2024-12-07
+
+- leetcode problems:
+  - Container With Most Water (med): completed
+  - Longest Consecutive Subsequence (med): completed
+  - Valid Palindrome (easy): completed
+  - Two Sum II (med): completed
+  - Valid Sudoku (med): completed
+  - Trapping Rain Water (hard): completed
+  - Evaluate Reverse Polish Notation (med): completed
+  - Generate Parentheses (med): completed
+  - Binary Search (easy): needed help
