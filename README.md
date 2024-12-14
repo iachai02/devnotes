@@ -623,3 +623,10 @@
   - Evaluate Reverse Polish Notation (med): completed
   - Generate Parentheses (med): completed
   - Binary Search (easy): needed help
+
+#### 2024-12-10
+
+- leetcode problems:
+  - Binary Search (easy): completed
+  - 3Sum (med): completed
+  -
