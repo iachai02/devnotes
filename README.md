@@ -629,4 +629,12 @@
 - leetcode problems:
   - Binary Search (easy): completed
   - 3Sum (med): completed
-  -
+
+#### 2024-12-17
+
+- leetcode problems:
+  - binary search (easy): had the right idea, did not execute
+  - Top K Frequent Elements (med): completed
+  - Largest Rectangel in Histogram (hard): had the right idea, did not execute
+  - Min Stack (med): completed
+- working on startup
