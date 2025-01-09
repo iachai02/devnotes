@@ -638,3 +638,14 @@
   - Largest Rectangel in Histogram (hard): had the right idea, did not execute
   - Min Stack (med): completed
 - working on startup
+
+#### 2025-01-09
+
+- leetcode problems:
+  - binary search (easy): needed help
+  - daily temperatures (med): had the right idea, did not execute
+  - longest consecutive subsequence (med): completed
+  - encode and decode (med): completed
+  - largest rectangle in histogram (hard): had the right idea, did not execute
+  - generate parenthesis (med): had the right idea, did not execute
+  - container with most water (med): completed
