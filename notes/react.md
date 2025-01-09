@@ -198,3 +198,68 @@ function ListGroup({ items, heading }: Props) {
   - similar to local variables
 
 ## Passing Children
+
+```javascript
+import { ReactNode } from 'react';
+
+interface Props {
+  children: ReactNode;
+}
+
+const Alert = ({ children }: Props) => {
+  return <div className="alert alert-primary">{children}</div>;
+};
+
+export default Alert;
+
+
+import Alert from "./components/Alert";
+
+function App() {
+  return (
+    <div>
+      <Alert>
+        Hello <span>World</span>
+      </Alert>
+    </div>
+  );
+}
+
+export default App;
+```
+
+## Building A Button Component
+
+```javascript
+interface Props {
+  children: string;
+  color?: "primary" | "secondary" | "danger";
+  onClick: () => void;
+}
+
+const Button = ({ children, onClick, color = "primary" }: Props) => {
+  return (
+    <button className={"btn btn-" + color} onClick={onClick}>
+      {children}
+    </button>
+  );
+};
+
+export default Button;
+
+
+import Button from "./components/Button";
+
+function App() {
+  return (
+    <div>
+      <Button color="secondary" onClick={() => console.log("Clicked")}>
+        My Button
+      </Button>
+    </div>
+  );
+}
+
+export default App;
+```
+

@@ -44,6 +44,14 @@
 - lower loss is better
 - we take whatever model had the lowest loss and use our test set on that model to check how generalizable the final chose model is
 
+### Metrics of Performance
+
+- `Loss`: the difference between your prediction and the actual label
+    - L1 Loss: |y_real - y_predicted|
+    - L2 Loss: (y_real - y_predicted)^2
+    - Binary Cross-Entropy Loss
+- `Accuracy`: the percentage of predictions that are the same as the actual
+
 ## Common Imports
 
 - import numpy as np
@@ -54,3 +62,5 @@
 
 - `pd.read_csv("file_name")`: imports a data file
   - `pd.read_csv("file_name", names=cols)`: adds labels to the dataset where `cols` is a list of the names of columns
+- `np.split()`: splits up dataframe
+- `np.hstack()`: horizontally combines two arrays
