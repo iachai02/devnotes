@@ -649,3 +649,26 @@
   - largest rectangle in histogram (hard): had the right idea, did not execute
   - generate parenthesis (med): had the right idea, did not execute
   - container with most water (med): completed
+
+#### 2025-02-03
+
+- leetcode problems:
+  - contains duplicate (easy): completed
+  - valid anagram (easy): completed
+  - twoSum (easy): completed
+  - group anagrams (med): had the right idea, did not execute
+  - top k frequent elements (med): had the right idea, did not execute (learn the other solutions as well)
+  - encode and decode (med): completed
+  - product of array except self (med): needed help
+  - valid sudoku (med): completed
+  - longest consecutive sequence (med): completed
+  - valid palindrome (easy): completed
+  - Two Sum II (med): completed
+  - Three Sum (med): needed help
+  - Container with most water (med): completed
+  - Trapping Rain Water (hard): needed help
+  - Best Time to Buy and Sell Stock (easy): needed help
+  - Valid Parenthesis (easy): had the right idea, did not execute
+  - Minimum stack (med): completed
+  - Evaluate Reverse Polish Notation (med): completed
+  -
