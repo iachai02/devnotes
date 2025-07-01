@@ -671,4 +671,19 @@
   - Valid Parenthesis (easy): had the right idea, did not execute
   - Minimum stack (med): completed
   - Evaluate Reverse Polish Notation (med): completed
+
+#### 2025-06-30
+
+- leetcode problems:
+  - twoSum (easy): completed
+  - ContainsDuplicate (easy): completed
+  - ValidAnagram (easy): completed
+  - GroupAnagrams (med): needed help
+
+#### 2025-07-01
+
+- leetcode problems:
+  - GroupAnagrams (med): needed help
+  - Top K Frequent Elements (med): needed help
+  - Encode and Decode Strings (med): had the right idea, did not execute
   -
