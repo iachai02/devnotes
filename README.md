@@ -686,4 +686,5 @@
   - GroupAnagrams (med): needed help
   - Top K Frequent Elements (med): needed help
   - Encode and Decode Strings (med): had the right idea, did not execute
-  -
+  - Product of Array Except Self (med): needed help
+  - Valid Sudoku (med): had the right idea, did not execute
