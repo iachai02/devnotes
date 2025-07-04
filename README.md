@@ -698,3 +698,15 @@
   - Encode and Decode (med): completed
   - Valid Sudoku (med): completed
   - Longest Consecutive Subsequence (med): had the right idea, did not execute
+
+#### 2025-07-04
+
+- leetcode problems:
+  - Valid Sudoku (med): completed
+  - Longest Consecutive Subsequence (med): completed
+  - Product of Array Except Self (med): completed
+  - Top K Frequent Elements (med): completed
+  - Encode and Decode (med): completed
+  - Group Anagrams (med): completed
+  - Valid Palindrome (easy); had the right idea, did not execute
+  - Two Sum II - Input Array Is Sorted (med): completed
