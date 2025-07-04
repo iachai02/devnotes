@@ -688,3 +688,13 @@
   - Encode and Decode Strings (med): had the right idea, did not execute
   - Product of Array Except Self (med): needed help
   - Valid Sudoku (med): had the right idea, did not execute
+
+#### 2025-07-03
+
+- leetcode problems:
+  - Group Anagrams (med): completed
+  - Product of Array Except Self (med): completed
+  - Top K Frequent Elements (med): completed
+  - Encode and Decode (med): completed
+  - Valid Sudoku (med): completed
+  - Longest Consecutive Subsequence (med): had the right idea, did not execute
