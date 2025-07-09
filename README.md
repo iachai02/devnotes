@@ -728,4 +728,5 @@
   - [review] Trapping Rain Water (hard): completed
   - [review] TwoSum (easy): completed
   - [review] Valid Anagram (easy): completed
-  - [new] Valid Parenthesis (easy):
+  - [new] Valid Parenthesis (easy): had the right idea, did not execute
+  - [new] Min Stack (medium):
