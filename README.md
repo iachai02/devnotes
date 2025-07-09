@@ -710,3 +710,12 @@
   - Group Anagrams (med): completed
   - Valid Palindrome (easy); had the right idea, did not execute
   - Two Sum II - Input Array Is Sorted (med): completed
+
+#### 2025-07-07
+
+- leetcode problems:
+  - Valid Palindrome (easy): completed
+  - Contains Duplicate (easy): completed
+  - Two Sum II - Input Array is Sorted (med): completed
+  - 3Sum (med): needed help
+  -
