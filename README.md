@@ -675,47 +675,57 @@
 #### 2025-06-30
 
 - leetcode problems:
-  - twoSum (easy): completed
-  - ContainsDuplicate (easy): completed
-  - ValidAnagram (easy): completed
-  - GroupAnagrams (med): needed help
+  - [new] twoSum (easy): completed
+  - [new] ContainsDuplicate (easy): completed
+  - [new] ValidAnagram (easy): completed
+  - [new] GroupAnagrams (med): needed help
 
 #### 2025-07-01
 
 - leetcode problems:
-  - GroupAnagrams (med): needed help
-  - Top K Frequent Elements (med): needed help
-  - Encode and Decode Strings (med): had the right idea, did not execute
-  - Product of Array Except Self (med): needed help
-  - Valid Sudoku (med): had the right idea, did not execute
+  - [review] GroupAnagrams (med): needed help
+  - [new] Top K Frequent Elements (med): needed help
+  - [new] Encode and Decode Strings (med): had the right idea, did not execute
+  - [new] Product of Array Except Self (med): needed help
+  - [new] Valid Sudoku (med): had the right idea, did not execute
 
 #### 2025-07-03
 
 - leetcode problems:
-  - Group Anagrams (med): completed
-  - Product of Array Except Self (med): completed
-  - Top K Frequent Elements (med): completed
-  - Encode and Decode (med): completed
-  - Valid Sudoku (med): completed
-  - Longest Consecutive Subsequence (med): had the right idea, did not execute
+  - [review] Group Anagrams (med): completed
+  - [review] Product of Array Except Self (med): completed
+  - [review] Top K Frequent Elements (med): completed
+  - [review] Encode and Decode (med): completed
+  - [review] Valid Sudoku (med): completed
+  - [new] Longest Consecutive Subsequence (med): had the right idea, did not execute
 
 #### 2025-07-04
 
 - leetcode problems:
-  - Valid Sudoku (med): completed
-  - Longest Consecutive Subsequence (med): completed
-  - Product of Array Except Self (med): completed
-  - Top K Frequent Elements (med): completed
-  - Encode and Decode (med): completed
-  - Group Anagrams (med): completed
-  - Valid Palindrome (easy); had the right idea, did not execute
-  - Two Sum II - Input Array Is Sorted (med): completed
+  - [review] Valid Sudoku (med): completed
+  - [review] Longest Consecutive Subsequence (med): completed
+  - [review] Product of Array Except Self (med): completed
+  - [review] Top K Frequent Elements (med): completed
+  - [review] Encode and Decode (med): completed
+  - [review] Group Anagrams (med): completed
+  - [new] Valid Palindrome (easy); had the right idea, did not execute
+  - [new] Two Sum II - Input Array Is Sorted (med): completed
 
 #### 2025-07-07
 
 - leetcode problems:
-  - Valid Palindrome (easy): completed
-  - Contains Duplicate (easy): completed
-  - Two Sum II - Input Array is Sorted (med): completed
-  - 3Sum (med): needed help
-  -
+  - [review] Valid Palindrome (easy): completed
+  - [review] Contains Duplicate (easy): completed
+  - [review] Two Sum II - Input Array is Sorted (med): completed
+  - [new] 3Sum (med): needed help
+  - [new] Container With Most Water (med): completed
+  - [new] Trapping Rain Water (hard): needed help
+
+#### 2025-07-09
+
+- leetcode problems:
+  - [review] 3Sum (med): had the right idea, did not execute
+  - [review] Trapping Rain Water (hard): completed
+  - [review] TwoSum (easy): completed
+  - [review] Valid Anagram (easy): completed
+  - [new] Valid Parenthesis (easy):
