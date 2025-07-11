@@ -729,4 +729,16 @@
   - [review] TwoSum (easy): completed
   - [review] Valid Anagram (easy): completed
   - [new] Valid Parenthesis (easy): had the right idea, did not execute
-  - [new] Min Stack (medium):
+  - [new] Min Stack (medium): had the right idea, did not execute
+
+#### 2025-07-10
+
+- leetcode problems:
+  - [review] Valid Parenthesis (easy): completed
+  - [review] Trapping Rain Water (hard): completed
+  - [review] Top K Frequent Elements (med): completed
+  - [review] 3Sum (med): completed
+  - [review] MinStack (med): completed
+  - [review] Valid Sudoku (med): completed
+  - [new] Evaluate Reverse Polish Notation (med): had the right idea, did not execute
+  - [new] Generate Parentheses (med): needed help
