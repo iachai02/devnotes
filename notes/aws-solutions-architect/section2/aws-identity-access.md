@@ -3,6 +3,7 @@
 - IAM Principals must be authenticated to send requests (with a few exceptions)
 - A principal is a person or application that can make a request for an action or operation on an AWS resource
 - AWS determines whether to authorize the request (allow/deny)
+- AWS actions are authorized on AWS resources
 - Core components of IAM
   - User: user gains permissions applied to the group through the policy
   - User groups: used to add users and applying policies
@@ -19,7 +20,9 @@
 - AWS IAM
   - up to 5000 individual user accounts can be created. Users have no permissions by default
   - has an amazon resource name
-    - ex: arn:aws:iam:: 625148252389
+    - ex:
+      - Friendly Name: Andrea
+      - Amazon Resource Name: arn:aws:iam::625148252389:user/Andrea
 - Authentication via username/password for console of access keys for API/CLI
 
 ## IAM User Groups
