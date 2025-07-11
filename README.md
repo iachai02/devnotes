@@ -742,3 +742,13 @@
   - [review] Valid Sudoku (med): completed
   - [new] Evaluate Reverse Polish Notation (med): had the right idea, did not execute
   - [new] Generate Parentheses (med): needed help
+
+#### 2025-07-11
+
+- leetcode problems:
+  - [review] Reverse Polish Notation (med): completed
+  - [review] Generate Parentheses (med): completed
+  - [review] Valid Parentheses (easy): completed
+  - [new] Daily Temperatures (med): needed help
+  - [review] Product of Array Except Self (med): completed
+  - [new] Car Fleet (med): needed help
