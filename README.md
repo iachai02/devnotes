@@ -752,3 +752,11 @@
   - [new] Daily Temperatures (med): needed help
   - [review] Product of Array Except Self (med): completed
   - [new] Car Fleet (med): needed help
+
+#### 2025-07-12
+
+- leetcode problems:
+  - [review] Daily Temperatures (med): had the right idea, did not execute
+  - [review] Car Fleet (med): needed help
+  - [review] Generate Parentheses (med): completed
+  -
