@@ -759,4 +759,6 @@
   - [review] Daily Temperatures (med): had the right idea, did not execute
   - [review] Car Fleet (med): needed help
   - [review] Generate Parentheses (med): completed
-  -
+  - [new] Largest Rectangle in Histogram (hard): needed help
+  - [review] Container with most water (med): completed
+  - [new] Binary Search (easy): had the right idea, did not execute
