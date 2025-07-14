@@ -762,3 +762,12 @@
   - [new] Largest Rectangle in Histogram (hard): needed help
   - [review] Container with most water (med): completed
   - [new] Binary Search (easy): had the right idea, did not execute
+
+#### 2025-07-13
+
+- leetcode problems:
+  - [review] Daily Temperatures (med): completed
+  - [review] Car Fleet (med): completed
+  - [review] Largest Rectangle in Histogram (hard): had the right idea, did not execute
+  - [review] Binary Search (easy): completed
+  - [review] Group Anagrams (med): completed
