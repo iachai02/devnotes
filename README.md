@@ -771,3 +771,13 @@
   - [review] Largest Rectangle in Histogram (hard): had the right idea, did not execute
   - [review] Binary Search (easy): completed
   - [review] Group Anagrams (med): completed
+
+#### 2025-07-14
+
+- leetcode problems:
+  - [review] Largest Rectangle In Histogram (hard): completed
+  - [review] Daily Temperatures (med): completed
+  - [review] Longest Consecutive Subsequence (med): completed
+  - [new] Search a 2D matrix (med): needed help
+  - [review] Binary Search (easy): completed
+  - [review] Car Fleet (med): completed
