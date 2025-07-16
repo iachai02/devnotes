@@ -35,7 +35,7 @@
 
   ## Determination Rules
 
-  1. By default, all requests are implicitly denied (through the root user has full access)
+  1. By default, all requests are implicitly denied (though the root user has full access)
   2. An explicit allow in an identity-based or resource-based policy overrides this default
   3. If a permissions boundary, Organizations SCP, or session policy is present, it might override the allow with an implicit deny
   4. An explicit deny in any policy overrides any allow
