@@ -781,3 +781,11 @@
   - [new] Search a 2D matrix (med): needed help
   - [review] Binary Search (easy): completed
   - [review] Car Fleet (med): completed
+
+#### 2025-07-15
+
+- leetcode problems:
+  - [review] Search a 2D Matrix (med): needed help
+  - [new] Koko eating bananas (med): needed help
+  - [new] Find Minimum in Rotated Array (med): needed help
+  - [review] Car Fleet (med): completed
