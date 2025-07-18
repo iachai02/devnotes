@@ -48,6 +48,41 @@
     - associated with a private IP address on the instance
     - can be moved between instances and Elastic Network Adapters
 
+## Network Interfaces (ENI, ENA, EFA)
+
+- Elastic network interface
+  - basic adapter type for when you don't have any high-performance requirements
+  - can use with all instance types
+- Elastic network adapter
+  - enhanced networking performance
+  - higher bandwidth and lower inter-instance latency
+  - must choose supported instance type
+- elastic fabric adapter
+  - use with high performance computing and MPI and ML use cases
+  - tightly coupled applications
+  - can use with all instance types
+
+## Amazon Elastic Block Store (EBS)
+
+- EBS volumes exist within an Availability Zone
+- The volume is attached over a network
+- the volume is automatically replicated within the AZ
+
+## Amazon EBS Volume Use Cases
+
+- gp3 (general purpose SSD): most workloads, including databases and dev/test environments
+- gp2 (general purpose SSD): boot volumes, dev/test, general workloads
+- io2 (provisioned IOPS SSD): high-performance databases, critical applications
+- io1 (provisioned IPOS SSD): databases requiring high IOPS
+- st1 (throughput optiized HDD): streaming, big data, log processing
+- sc1 (cold HDD): archival storage, infrequent access workloads
+
+## Amazon EBS vs Instance Store
+
+- EBS volumes are attached over the network
+- instance store volumes are physically attaches to the host and offer high-performance
+- instance store volumes are ephemeral (non-persistent)
+
 ## Public Subnets
 
 - VPC surrounding Availability Zone with a public and private subnet
