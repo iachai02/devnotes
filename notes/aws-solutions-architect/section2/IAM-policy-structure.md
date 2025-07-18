@@ -10,3 +10,5 @@
 - Effect: is either allow or deny
 - Action: lists the specific resource operations that the policy affects
 - Resource: lists the specific resources that the policy applies to
+- All properties in a single statement block are evaluated together
+- A policy may contian more than one permission statement

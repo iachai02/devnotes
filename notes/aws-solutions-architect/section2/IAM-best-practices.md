@@ -13,3 +13,4 @@
 - verify public and cross-account access to resources with IAM Access Analyzer
 - use IAM Access Analyzer to validate your IAM policies to ensure secure and functional permissions
 - establish permissions guardrails across multiple accounts
+- use permission boundaries to delegate permissions management within an account
