@@ -789,3 +789,13 @@
   - [new] Koko eating bananas (med): needed help
   - [new] Find Minimum in Rotated Array (med): needed help
   - [review] Car Fleet (med): completed
+
+#### 2025-07-17
+
+- leetcode problems:
+  - [review] Find Minimum in Rotated Sorted Array (med): needed help
+  - [review] Valid Palindrome (easy): completed
+  - [review] Koko Eating Bananas (med): needed help
+  - [review] Valid Parentheses (easy): completed
+  - [review] Search a 2D matrix (med): completed
+  - [review] Evaluate Reverse Polish Notation (med): completed
