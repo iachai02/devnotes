@@ -799,3 +799,13 @@
   - [review] Valid Parentheses (easy): completed
   - [review] Search a 2D matrix (med): completed
   - [review] Evaluate Reverse Polish Notation (med): completed
+
+#### 2025-07-18
+
+- leetcode problems:
+  - [review] Find Minimum in Rotated Sorted Array (med): needed help
+  - [review] Generate Parentheses (med): completed
+  - [review] Search a 2D Matrix (med): completed
+  - [review] Min Stack (med): completed
+  - [review] Koko Eating Bananas (med): had the right idea, did not execute
+  - [review] 3Sum (med): completed
