@@ -809,3 +809,13 @@
   - [review] Min Stack (med): completed
   - [review] Koko Eating Bananas (med): had the right idea, did not execute
   - [review] 3Sum (med): completed
+
+#### 2025-07-19
+
+- leetcode problems:
+  - [review] Koko Eating Bananas (med): completed
+  - [new] Search in Rotated Sorted Array (med): needed help
+  - [review] Find Minimum in Rotated Sorted Array (med): completed
+  - [review] Trapping Rain Water (hard): completed
+  - [new] Time Based Key-Value Store (med): needed help
+  - [review] Two Sum II - Input Array is Sorted (med):
