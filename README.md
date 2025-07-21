@@ -818,4 +818,14 @@
   - [review] Find Minimum in Rotated Sorted Array (med): completed
   - [review] Trapping Rain Water (hard): completed
   - [new] Time Based Key-Value Store (med): needed help
+  - [review] Two Sum II - Input Array is Sorted (med): completed
+
+#### 2025-07-21
+
+- leetcode problems:
+  - [review] Search in Rotated Sorted Array (med): had the right idea, did not execute
+  - [review] Time Based Key-Value Store (med): needed help
+  - [review] Find Minimum In Rotated Sorted Array (med): completed
+  - [review] Car Fleet (med): completed
+  - [review] Binary Search (easy): completed
   - [review] Two Sum II - Input Array is Sorted (med):
