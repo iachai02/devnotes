@@ -828,4 +828,14 @@
   - [review] Find Minimum In Rotated Sorted Array (med): completed
   - [review] Car Fleet (med): completed
   - [review] Binary Search (easy): completed
-  - [review] Two Sum II - Input Array is Sorted (med):
+  - [review] Two Sum II - Input Array is Sorted (med): completed
+
+#### 2025-07-22
+
+- leetcode problems:
+  - [review] Search in Rotated Sorted Array (med): completed
+  - [review] Time Based Key-Value Store (med): had the right idea, needed help
+  - [review] Koko Eating Bananas (med): completed
+  - [new] Median of Two Sorted Arrays (hard): needed help
+  - [review] Contains Duplicate (easy): completed
+  - [new] Best Time to Buy and Sell Stock (easy): needed help
