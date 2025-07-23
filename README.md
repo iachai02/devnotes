@@ -839,3 +839,13 @@
   - [new] Median of Two Sorted Arrays (hard): needed help
   - [review] Contains Duplicate (easy): completed
   - [new] Best Time to Buy and Sell Stock (easy): needed help
+
+#### 2025-07-23
+
+- leetcode problems:
+  - [review] Time Based Key-Value Store (med): completed
+  - [review] Median of Two Sorted Arrays (hard): needed help
+  - [review] Largest Rectangle In Histogram (hard): completed
+  - [review] Daily Temperatures (med): completed
+  - [review] Best Time to Buy and Sell Stock (easy): completed
+  - [review] Valid Anagram (easy): completed
