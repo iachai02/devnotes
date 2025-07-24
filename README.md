@@ -849,3 +849,13 @@
   - [review] Daily Temperatures (med): completed
   - [review] Best Time to Buy and Sell Stock (easy): completed
   - [review] Valid Anagram (easy): completed
+
+#### 2025-07-24
+
+- leetcode problems:
+  - [review] Median of Two Sorted Arrays (hard): had the right idea, did not execute
+  - [review] Find Minimum in Rotated Sorted Array (med): had the right idea, did not execute
+  - [review] Valid Sudoku (med): completed
+  - [review] Best Time to Buy and Sell Stock (easy): completed
+  - [review] Search a 2D Matrix (med): completed
+  - [review] Time Based Key-value Store (med): completed
