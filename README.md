@@ -859,3 +859,12 @@
   - [review] Best Time to Buy and Sell Stock (easy): completed
   - [review] Search a 2D Matrix (med): completed
   - [review] Time Based Key-value Store (med): completed
+
+#### 2025-07-25
+
+- leetcode problems:
+  - [review] Median of Two Sorted Arrays (hard): completed
+  - [review] Product of Array Except Self (med): completed
+  - [review] Top K Frequent Elements (med): completed
+  - [new] Longest Substring Without Repeating Characters (med): needed help
+  - [review] Two Sum (easy): completed
