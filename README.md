@@ -868,3 +868,13 @@
   - [review] Top K Frequent Elements (med): completed
   - [new] Longest Substring Without Repeating Characters (med): needed help
   - [review] Two Sum (easy): completed
+
+#### 2025-07-28
+
+- leetcode problems:
+  - [review] Longest Substring Without Repeating Characters (med): needed help
+  - [review] Best time to Buy and Sell Stock (easy): completed
+  - [review] Group Anagrams (med): completed
+  - [review] Median of Two Sorted Arrays (hard): had the right idea, could not execute
+  - [review] Koko Eating Bananas (med): had the right idea, could not execute
+  - [review] Find Minimum in Rotated Sorted Array (med): completed
