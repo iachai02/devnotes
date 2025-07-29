@@ -878,3 +878,13 @@
   - [review] Median of Two Sorted Arrays (hard): had the right idea, could not execute
   - [review] Koko Eating Bananas (med): had the right idea, could not execute
   - [review] Find Minimum in Rotated Sorted Array (med): completed
+
+#### 2025-07-29
+
+- leetcode problems:
+  - [review] Longest Substring Without Repeating Characters (med): had the right idea, did not execute
+  - [review] Median of Two Sorted Arrays (hard): completed
+  - [review] Container wth most water (med): completed
+  - [review] Time Based Key-Value Store (med): completed
+  - [review] Encode and Decode Strings (med): completed
+  - [review] Longest Consecutive Sequence (med): completed
