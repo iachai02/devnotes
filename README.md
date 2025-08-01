@@ -888,3 +888,12 @@
   - [review] Time Based Key-Value Store (med): completed
   - [review] Encode and Decode Strings (med): completed
   - [review] Longest Consecutive Sequence (med): completed
+
+#### 2025-07-30
+
+- leetcode problems:
+  - [review] Longest Substring Without Repeating Characters (med): completed
+  - [review] Longest Consecutive Sequence (med): completed
+  - [new] Longest Repeating Character Replacement (med): needed help
+  - [new] Permutation in String (med): needed help
+  - [new] Minimum Window Substring (hard): needed help
