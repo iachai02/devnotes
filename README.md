@@ -897,3 +897,10 @@
   - [new] Longest Repeating Character Replacement (med): needed help
   - [new] Permutation in String (med): needed help
   - [new] Minimum Window Substring (hard): needed help
+
+#### 2025-08-01
+
+- leetcode problems:
+  - [review] Longest Repeating Character Replacement (med): needed help
+  - [review] Permutation In String (med): needed help
+  - [review] Longest Substring Without Repeating Characters (med): completed
