@@ -904,3 +904,13 @@
   - [review] Longest Repeating Character Replacement (med): needed help
   - [review] Permutation In String (med): needed help
   - [review] Longest Substring Without Repeating Characters (med): completed
+
+#### 2025-08-05
+
+- leetcode problems:
+  - [review] Longest Repeating Character Replacement (med): needed help
+  - [review] Permutation In String (med): needed help
+  - [review] Median of Two Sorted Arrays (hard): completed
+  - [review] MinStack (med): completed
+  - [review] Longest Substring Without Repeating Character (med): completed
+  - [review] Largest Rectangle in Histogram (hard): completed
