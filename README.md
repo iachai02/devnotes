@@ -914,3 +914,13 @@
   - [review] MinStack (med): completed
   - [review] Longest Substring Without Repeating Character (med): completed
   - [review] Largest Rectangle in Histogram (hard): completed
+
+#### 2025-08-06
+
+- leetcode problems:
+  - [review] Longest Repeating Character Replacement (med): needed help
+  - [review] Permutation in String (med): needed help
+  - [review] Largest Rectangle in Histogram (hard): completed
+  - [review] Two Sum II - Input Array is Sorted (med): completed
+  - [review] Generate Parentheses (med): completed
+  - [review] Contains Duplicate (easy): completed
