@@ -934,3 +934,13 @@
   - [review] Permutation in String (med): had the right idea, did not execute
   - [review] Search in Rotated Sorted Array (med): completed
   - [review] Evaluate Reverse Polish Notation (med): completed
+
+#### 2025-08-08
+
+- leetcode problems:
+  - [review] Longest Repeating Character Replacement (med): completed
+  - [review] Evaluate Reverse Polish Notation (med): completed
+  - [review] Car Fleet (med): had the right idea, did not execute
+  - [review] Permutation In String (med): had the right idea, did not execute
+  - [review] Valid Palindrome (easy): completed
+  - [review] Daily Temperatures (med): completed
