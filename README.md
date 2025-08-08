@@ -924,3 +924,13 @@
   - [review] Two Sum II - Input Array is Sorted (med): completed
   - [review] Generate Parentheses (med): completed
   - [review] Contains Duplicate (easy): completed
+
+#### 2025-08-07
+
+- leetcode problems:
+  - [review] Longest Repeating Character Replacement (med): had the right idea, did not execute
+  - [review] Contains Duplicate (easy): completed
+  - [review] Find Minimum in Rotated Sorted Array (med): completed
+  - [review] Permutation in String (med): had the right idea, did not execute
+  - [review] Search in Rotated Sorted Array (med): completed
+  - [review] Evaluate Reverse Polish Notation (med): completed
