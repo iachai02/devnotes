@@ -944,3 +944,13 @@
   - [review] Permutation In String (med): had the right idea, did not execute
   - [review] Valid Palindrome (easy): completed
   - [review] Daily Temperatures (med): completed
+
+#### 2025-08-11
+
+- leetcode problems:
+  - [review] Permutation in String (med): completed
+  - [review] Longest Repeating Character Replacement (med): completed
+  - [review] Time Based Key-Value Store (med): completed
+  - [review] TwoSum (easy): completed
+  - [review] Longest Substring Without Repeating Characters (med): had the right idea, did not execute
+  - [review] Median of Two Sorted Arrays (hard): completed
