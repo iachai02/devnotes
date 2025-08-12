@@ -954,3 +954,13 @@
   - [review] TwoSum (easy): completed
   - [review] Longest Substring Without Repeating Characters (med): had the right idea, did not execute
   - [review] Median of Two Sorted Arrays (hard): completed
+
+#### 2025-08-12
+
+- leetcode problems:
+  - [review] Permutation in String (med): completed
+  - [review] Median of Two Sorted Arrays (med): completed
+  - [review] Top K Frequent Elements (med): completed
+  - [review] Valid Sudoku (med): completed
+  - [review] Group Anagrams (med): completed
+  - [review] Valid Parenthesis (easy): had the right idea, did not execute
