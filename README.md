@@ -964,3 +964,13 @@
   - [review] Valid Sudoku (med): completed
   - [review] Group Anagrams (med): completed
   - [review] Valid Parenthesis (easy): had the right idea, did not execute
+
+#### 2025-08-13
+
+- leetcode problems:
+  - [review] Container With Most Water (med): completed
+  - [review] Encode and Decode (med): completed
+  - [review] 3Sum (med): completed
+  - [review] Search a 2D Matrix (med): completed
+  - [review] Koko Eating Bananas (med): had the right idea, did not execute
+  - [review] Best Time to Buy and Sell Stock (easy): had the right idea, did not execute
