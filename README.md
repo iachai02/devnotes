@@ -974,3 +974,13 @@
   - [review] Search a 2D Matrix (med): completed
   - [review] Koko Eating Bananas (med): had the right idea, did not execute
   - [review] Best Time to Buy and Sell Stock (easy): had the right idea, did not execute
+
+#### 2025-08-15
+
+- leetcode problems:
+  - [review] Permutation in String (med): completed
+  - [review] Longest Consecutive Subsequence (med): completed
+  - [review] Trapping Rain Water (hard): had the right idea, did not execute
+  - [review] Longest Repeating Character Replacement (med): had the right idea, did not execute
+  - [review] Valid Anagram (easy): completed
+  - [review] Binary Search (easy): completed
