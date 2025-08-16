@@ -984,3 +984,11 @@
   - [review] Longest Repeating Character Replacement (med): had the right idea, did not execute
   - [review] Valid Anagram (easy): completed
   - [review] Binary Search (easy): completed
+
+#### 2025-08-16
+
+- leetcode problems:
+  - [review] Product of Array Except Self (med): completed
+  - [new] Minimum Window String (hard): needed help
+  - [new] Sliding Window Maximum (hard): needed help
+  - [new] Reverse Linked list (easy): needed help
