@@ -992,3 +992,12 @@
   - [new] Minimum Window String (hard): needed help
   - [new] Sliding Window Maximum (hard): needed help
   - [new] Reverse Linked list (easy): needed help
+
+#### 2025-08-18
+
+- leetcode problems:
+  - [review] Minimum Window Substring (hard): had the right idea, did not execute
+  - [review] Sliding Window Maximum (hard): needed help
+  - [review] Reverse Linked List (easy): had the right idea, did not execute
+  - [review] Longest Repeating Character Replacement (med): completed
+  - [review] Merge Two Sorted Lists (med): needed help
