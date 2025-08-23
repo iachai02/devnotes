@@ -1001,3 +1001,18 @@
   - [review] Reverse Linked List (easy): had the right idea, did not execute
   - [review] Longest Repeating Character Replacement (med): completed
   - [review] Merge Two Sorted Lists (med): needed help
+
+#### 2025-08-19
+
+- leetcode problems:
+  - [review] Minimum Window Substring (hard): had the right idea, did not execute
+
+#### 2025-08-23
+
+- leetcode problems:
+  - [review] Sliding Window Maximum (hard): needed help
+  - [review] Reverse Linked List (easy): completed
+  - [review] Merge Two Sorted Lists (easy): needed help
+  - [review] Minimum Window Substring (hard): completed
+  - [review] Permutation in String (hard): completed
+  - [review] Evaluate Reverse Polish Notation (med): completed
