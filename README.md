@@ -1016,3 +1016,13 @@
   - [review] Minimum Window Substring (hard): completed
   - [review] Permutation in String (hard): completed
   - [review] Evaluate Reverse Polish Notation (med): completed
+
+#### 2025-08-24
+
+- leetcode problems:
+  - [review] Sliding Window Maximum (hard): needed help
+  - [review] Merge Two Sorted Lists (easy): had the right idea, did not execute
+  - [review] Reverse Linked list (easy): completed
+  - [review] Evaluate Reverse Polish Notation (med): completed
+  - [review] Minimum Window Substring (hard): completed
+  - [review] Daily Temperatures (med): completed
