@@ -1026,3 +1026,13 @@
   - [review] Evaluate Reverse Polish Notation (med): completed
   - [review] Minimum Window Substring (hard): completed
   - [review] Daily Temperatures (med): completed
+
+#### 2025-08-25
+
+- leetcode problems:
+  - [review] Sliding Window Maximum (hard): had the right idea, did not execute
+  - [review] Merge Two Sorted Lists (easy): completed
+  - [review] Longest Substring Without Repeating Characters (med): had the right idea, did not execute
+  - [review] Contains Duplicate (easy): completed
+  - [review] Longest Repeating Character Replacement (med): had the right idea, did not execute
+  - [review] Car Fleet (med): had the right idea, did not execute
