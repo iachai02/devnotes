@@ -1036,3 +1036,13 @@
   - [review] Contains Duplicate (easy): completed
   - [review] Longest Repeating Character Replacement (med): had the right idea, did not execute
   - [review] Car Fleet (med): had the right idea, did not execute
+
+#### 2025-08-26
+
+- leetcode problems:
+  - [review] Sliding Window Maximum (hard): completed
+  - [review] Search in Rotated Sorted Array (med): had the right idea, did not execute
+  - [review] Time Based Key-Value Store (med): had the right idea, did not execute
+  - [review] Merge Two Sorted lists (easy): completed
+  - [review] twoSum (easy): completed
+  - [review] MinStack (med): completed
