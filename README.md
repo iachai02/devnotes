@@ -1046,3 +1046,13 @@
   - [review] Merge Two Sorted lists (easy): completed
   - [review] twoSum (easy): completed
   - [review] MinStack (med): completed
+
+#### 2025-08-27
+
+- leetcode problems:
+  - [review] Reverse Linked list (easy): completed
+  - [review] Top K Frequent Elements (med): completed
+  - [review] Group Anagrams (med): completed
+  - [review] Sliding Window Maximum (hard): completed
+  - [review] Valid Sudoku (med): completed
+  - [review] Largest Rectangle in Histogram (hard): completed
