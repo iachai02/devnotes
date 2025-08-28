@@ -1056,3 +1056,13 @@
   - [review] Sliding Window Maximum (hard): completed
   - [review] Valid Sudoku (med): completed
   - [review] Largest Rectangle in Histogram (hard): completed
+
+#### 2025-08-28
+
+- leetcode problems:
+  - [review] Container With Most Water (med): completed
+  - [review] 3Sum (med): completed
+  - [review] Search a 2D matrix (med): completed
+  - [review] Encode and Decode (med): completed
+  - [review] Find Minimum In Rotated Sorted Array (med): completed
+  - [review] Generate Parentheses (med): completed
