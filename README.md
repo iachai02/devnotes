@@ -1066,3 +1066,10 @@
   - [review] Encode and Decode (med): completed
   - [review] Find Minimum In Rotated Sorted Array (med): completed
   - [review] Generate Parentheses (med): completed
+
+#### 2025-08-29
+
+- leetcode problems:
+  - [review] Best Time to Buy and Sell Stock (easy): completed
+  - [review] Valid Parentheses (easy): completed
+  - [review] Median Of Two Sorted Arrays (hard): had the right idea, did not execute
