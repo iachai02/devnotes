@@ -1073,3 +1073,13 @@
   - [review] Best Time to Buy and Sell Stock (easy): completed
   - [review] Valid Parentheses (easy): completed
   - [review] Median Of Two Sorted Arrays (hard): had the right idea, did not execute
+
+#### 2025-08-30
+
+- leetcode problems:
+  - [review] Sliding Window Maximum (hard): completed
+  - [review] Binary Search (easy): completed
+  - [review] Valid Anagram (easy): completed
+  - [review] Trapping Rain Water (hard): completed
+  - [review] Longest Consecutive Sequence (med): completed
+  - [review] Two Sum II - Input Array Sorted (med): completed
