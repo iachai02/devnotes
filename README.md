@@ -1083,3 +1083,13 @@
   - [review] Trapping Rain Water (hard): completed
   - [review] Longest Consecutive Sequence (med): completed
   - [review] Two Sum II - Input Array Sorted (med): completed
+
+#### 2025-09-01
+
+- leetcode problems:
+  - [review] Reverse Linked list (easy): completed
+  - [review] Minimum Window Substring (med): completed
+  - [review] Product of Array Except Self (med): completed
+  - [new] Reorder List (med): needed help
+  - [review] Koko Eating Bananas (med): had the right idea, did not execute
+  - [review] Valid Palindrome (easy): completed
