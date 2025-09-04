@@ -1102,3 +1102,12 @@
   - [new] Remove Nth Node from List (med): needed help
   - [review] Merge Two Sorted Arrays (easy): completed
   - [new] Copy List With Random Pointer (med): needed help
+
+#### 2025-09-03
+
+- leetcode problems:
+  - [review] Reorder List (med): needed help
+  - [review] Remove Nth Node from List (med): needed help
+  - [review] Copy Linked list With random pointer (med): needed help
+  - [new] Add Two Numbers (med): needed help
+  - [new] Linked List Cycle (easy): needed help
