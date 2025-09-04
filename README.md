@@ -1093,3 +1093,12 @@
   - [new] Reorder List (med): needed help
   - [review] Koko Eating Bananas (med): had the right idea, did not execute
   - [review] Valid Palindrome (easy): completed
+
+#### 2025-09-02
+
+- leetcode problems:
+  - [review] Reorder List (med): needed help
+  - [review] Longest Repeating Character Replacement (med): completed
+  - [new] Remove Nth Node from List (med): needed help
+  - [review] Merge Two Sorted Arrays (easy): completed
+  - [new] Copy List With Random Pointer (med): needed help
