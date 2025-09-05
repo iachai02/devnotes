@@ -1111,3 +1111,13 @@
   - [review] Copy Linked list With random pointer (med): needed help
   - [new] Add Two Numbers (med): needed help
   - [new] Linked List Cycle (easy): needed help
+
+#### 2025-09-04
+
+- leetcode problems:
+  - [review] Add Two Numbers (med): needed help
+  - [review] Copy List With Random Pointer (med): needed help
+  - [review] Reorder List (med): had the right idea, did not execute
+  - [new] Find the Duplicate Number (med): needed help
+  - [review] Linked list cycle (easy): completed
+  - [review] Remove Nth Node From End of List (med): had the right idea, did not execute
