@@ -1128,3 +1128,13 @@
   - [review] Find the Duplicate Number (med): completed
   - [review] Reorder List (med): had the right idea, did not execute
   - [review] Linked List (easy): completed
+
+#### 2025-09-06
+
+- leetcode problems:
+  - [review] Find the duplicate number (med): completed
+  - [review] Add Two Numbers (med): had the right idea, did not execute
+  - [review] Remove Nth Node from the End of the list (med): had the right idea, did not execute
+  - [review] Permutation in String (med): completed
+  - [review] Reorder List (med): completed
+  - [review] Copy List With Random Pointer (med): needed help
