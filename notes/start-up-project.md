@@ -9,3 +9,5 @@
 6. add `type: "module"` to package.json to use imports
 7. `npm i -D nodemon` installs a package that updates the server in real time
 8. Add a `dev` script with `nodemon server.js` to run the command when using the command `nodemon run dev`
+
+npx expo start --localhost --clear: use to restart client

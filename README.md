@@ -1121,3 +1121,10 @@
   - [new] Find the Duplicate Number (med): needed help
   - [review] Linked list cycle (easy): completed
   - [review] Remove Nth Node From End of List (med): had the right idea, did not execute
+
+#### 2025-09-05
+
+- leetcode problems:
+  - [review] Find the Duplicate Number (med): completed
+  - [review] Reorder List (med): had the right idea, did not execute
+  - [review] Linked List (easy): completed
