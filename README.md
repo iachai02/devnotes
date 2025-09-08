@@ -1138,3 +1138,13 @@
   - [review] Permutation in String (med): completed
   - [review] Reorder List (med): completed
   - [review] Copy List With Random Pointer (med): needed help
+
+#### 2025-09-08
+
+- leetcode problems:
+  - [review] Add Two numbers (med): had the right idea, did not execute
+  - [review] Remove Nth Node from end of the list (med): had the right idea, did not execute
+  - [review] Reorder List (med): completed
+  - [review] Copy List With Random Pointer (med): completed
+  - [review] Linked list (easy): completed
+  - [review] Daily Temperatures (med): completed
