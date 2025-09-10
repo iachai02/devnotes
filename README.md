@@ -1148,3 +1148,13 @@
   - [review] Copy List With Random Pointer (med): completed
   - [review] Linked list (easy): completed
   - [review] Daily Temperatures (med): completed
+
+#### 2025-09-09
+
+- leetcode problems:
+  - [review] Add Two Numbers (med): completed
+  - [review] Remove Nth Node from end of the list (med): completed
+  - [review] Copy List With Random Pointer (med): completed
+  - [review] Reorder List (med): completed
+  - [review] Longest Substring Without Repeating Characters (med): had the right idea, did not execute
+  - [review] Find the duplicate number (med): completed
