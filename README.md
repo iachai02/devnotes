@@ -1158,3 +1158,13 @@
   - [review] Reorder List (med): completed
   - [review] Longest Substring Without Repeating Characters (med): had the right idea, did not execute
   - [review] Find the duplicate number (med): completed
+
+#### 2025-09-10
+
+- leetcode problems:
+  - [review] Find the duplicate number (med): completed
+  - [review] Time Based Key-Value Store (med): completed
+  - [review] Add Two Numbers (med): completed
+  - [review] twoSum (easy): completed
+  - [review] Remove Nth Node from the end of the list (med): completed
+  - [review] Car Fleet (med): completed
