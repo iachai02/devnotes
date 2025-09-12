@@ -1168,3 +1168,13 @@
   - [review] twoSum (easy): completed
   - [review] Remove Nth Node from the end of the list (med): completed
   - [review] Car Fleet (med): completed
+
+#### 2025-09-12
+
+- leetcode problems:
+  - [review] Copy list with random pointer (med): completed
+  - [review] Encode and Decode (med): completed
+  - [review] Generate Parentheses (med): completed
+  - [review] Top K Frequent Elements (med): completed
+  - [review] Search a 2D matrix (med): completed
+  - [review] threeSum (med): had the right idea, did not execute
