@@ -1178,3 +1178,13 @@
   - [review] Top K Frequent Elements (med): completed
   - [review] Search a 2D matrix (med): completed
   - [review] threeSum (med): had the right idea, did not execute
+
+#### 2025-09-15
+
+- leetcode problems:
+  - [review] Remove Nth Node from End of list (med): completed
+  - [review] Best Time to Buy and Sell Stock (easy): completed
+  - [review] Median of Two Sorted Arrays (hard): had the right idea, did not execute
+  - [review] Add Two Numbers (med): completed
+  - [review] Minimum Window Substring (hard): had the right idea, did not execute
+  - [review] Binary Search (easy): completed
