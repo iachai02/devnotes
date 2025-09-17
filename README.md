@@ -1188,3 +1188,13 @@
   - [review] Add Two Numbers (med): completed
   - [review] Minimum Window Substring (hard): had the right idea, did not execute
   - [review] Binary Search (easy): completed
+
+#### 2025-09-16
+
+- leetcode problems:
+  - [review] Valid Palindrome (easy): completed
+  - [review] Binary Search (easy): completed
+  - [review] Product of Array Except (med): completed
+  - [review] 3Sum (med): completed
+  - [review] Reorder List (med): had the right idea, did not execute
+  - [review] Koko eating bananas (med): had the right idea, did not execute
