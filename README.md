@@ -1198,3 +1198,13 @@
   - [review] 3Sum (med): completed
   - [review] Reorder List (med): had the right idea, did not execute
   - [review] Koko eating bananas (med): had the right idea, did not execute
+
+#### 2025-09-18
+
+- leetcode problems:
+  - [review] Add Two Numbers (med): completed
+  - [review] Find the Duplicate Number (med): completed
+  - [review] Longest Repeating Character Replacement (med): completed
+  - [review] Container With Most Water (med): completed
+  - [review] Group Anagrams (med): completed
+  - [review] Longest Consecutive Sequence (med): completed
