@@ -1208,3 +1208,18 @@
   - [review] Container With Most Water (med): completed
   - [review] Group Anagrams (med): completed
   - [review] Longest Consecutive Sequence (med): completed
+
+#### 2025-09-22
+
+- leetcode problems:
+  - [review] Permutation in String (med): completed
+
+#### 2025-09-23
+
+- leetcode problems:
+  - [review] Permutation in String (med): completed
+  - [review] Add Two Numbers (med): completed
+  - [review] Daily Temperatures (med): completed
+  - [review] Merge Two Sorted Lists (easy): had the right idea, did not execute
+  - [review] Valid Anagram (easy): completed
+  - [review] Valid Parentheses (easy): had the right idea, did not execute
