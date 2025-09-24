@@ -1223,3 +1223,13 @@
   - [review] Merge Two Sorted Lists (easy): had the right idea, did not execute
   - [review] Valid Anagram (easy): completed
   - [review] Valid Parentheses (easy): had the right idea, did not execute
+
+#### 2025-09-24
+
+- leetcode problems:
+  - [review] Longest Substring without repeating characters (med): had the right idea, did not execute
+  - [review] Valid Parentheses (easy): completed
+  - [review] Find minimum in rotated sorted array (med): had the right idea, did not execute
+  - [review] Valid Sudoku (med): completed
+  - [review] Two Sum II - Input array sorted (med): completed
+  - [review] Remove Nth Node from the end of list (med): had the right idea, did not execute
