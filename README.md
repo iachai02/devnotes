@@ -1233,3 +1233,18 @@
   - [review] Valid Sudoku (med): completed
   - [review] Two Sum II - Input array sorted (med): completed
   - [review] Remove Nth Node from the end of list (med): had the right idea, did not execute
+
+#### 2025-09-25
+
+- leetcode problems:
+  - [review] Time Based Key-Value Store (med): completed
+  - [review] twoSum (easy): completed
+  - [review] Car Fleet (med): completed
+  - [review] Sliding Window Maximum (hard): needed help
+
+#### 2025-09-25
+
+- leetcode problems:
+  - [review] Reorder List (med): had the right idea, did not execute
+  - [review] Sliding Window Maximum (hard): needed help
+  - [review] Linked list cycle (easy): completed
